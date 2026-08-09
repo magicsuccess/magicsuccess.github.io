@@ -3,6 +3,18 @@
   "updatedAt": "2026-08-09T10:20:00+07:00",
   "categories": ["ท่องเที่ยว", "AI", "แรงบันดาลใจ", "การลงทุน", "ธรรมะ", "ทองคำ", "English Daily"],
   "items": [
+    {
+      "slug": "openclaw-telegram-calm-notifications",
+      "title": "ออกแบบระบบแจ้งเตือนที่ไม่รบกวน: คู่มือ OpenClaw + Telegram แบบ 3 ระดับ",
+      "excerpt": "ออกแบบการแจ้งเตือนแบบข้อมูล ต้องดำเนินการ และเร่งด่วน พร้อม Notification Contract, Prompt, ตัวอย่าง และเช็กลิสต์กันข้อความซ้ำ",
+      "category": "AI",
+      "date": "2026-08-09",
+      "updatedAt": "2026-08-09",
+      "readingTime": "8 นาที",
+      "file": "content/openclaw-telegram-calm-notifications.md",
+      "image": "assets/images/articles/openclaw-telegram-calm-notifications.webp",
+      "imageAlt": "คนทำงานกำลังตรวจระบบแจ้งเตือนสามระดับบนแล็ปท็อปและโทรศัพท์ในบรรยากาศสงบยามค่ำ"
+    },
     {"slug":"english-daily-clear-ai-prompts","title":"8 วลีภาษาอังกฤษสำหรับเขียน Prompt ให้ AI เข้าใจตรงใจ","excerpt":"ฝึกสั่งงาน AI ด้วยสูตร Role, Task, Context, Format และ Constraints พร้อมคำอ่าน สถานการณ์จริง จุดที่มักใช้ผิด และ Prompt ฝึกตอบโต้","category":"English Daily","date":"2026-08-09","updatedAt":"2026-08-09","readingTime":"10 นาที","file":"content/english-daily-clear-ai-prompts.md","image":"assets/images/articles/english-daily-ai-prompting.webp","imageAlt":"คนทำงานชาวไทยกำลังเขียน Prompt บนแล็ปท็อป โดยมีการ์ดภาพแทนองค์ประกอบห้าส่วนของคำสั่ง AI"},
     {"slug":"mindful-stop-scrolling-seven-days","title":"หยุดไถหน้าจออย่างมีสติ: แบบฝึก 7 วันเพื่อคืนเวลาให้ชีวิต","excerpt":"ฝึกหยุด–รู้–เลือก–วางก่อนเปิดโทรศัพท์ พร้อมบันทึกคัดลอกใช้ได้ สถานการณ์จำลอง และแผน 7 วันที่ไม่ต้องหักดิบ","category":"ธรรมะ","date":"2026-08-08","updatedAt":"2026-08-08","readingTime":"8 นาที","file":"content/mindful-stop-scrolling-seven-days.md","image":"assets/images/articles/mindful-stop-scrolling-seven-days.webp","imageAlt":"คนพักสายตาจากโทรศัพท์ที่วางคว่ำบนโต๊ะ จิบชาและมองออกไปนอกหน้าต่างยามเย็นอย่างมีสติ"},
     {"slug":"when-life-does-not-go-as-planned","title":"สวรรค์ไม่ทำตามความต้องการของคน: เมื่อชีวิตไม่เป็นดังใจ เราจะวางใจอย่างไร","excerpt":"ชีวิตไม่ได้ตอบสนองทุกความต้องการเสมอไป แต่เรายังเลือกท่าที การกระทำ และก้าวต่อไปได้อย่างมีสติ","category":"ธรรมะ","date":"2026-08-02","readingTime":"7 นาที","file":"content/when-life-does-not-go-as-planned.md","image":"assets/images/articles/dhamma.webp","imageAlt":"คนกำลังนั่งมองท้องฟ้ายามเย็นอย่างสงบ สื่อถึงการยอมรับสิ่งที่ควบคุมไม่ได้"},
