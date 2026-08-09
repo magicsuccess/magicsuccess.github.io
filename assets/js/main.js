@@ -47,5 +47,24 @@ window.magicTrack=(eventName,details={})=>{
   if(localStorage.getItem(consentKey)==="granted")gtag("event",eventName,details);
 };
 document.addEventListener("click",event=>{const target=event.target.closest("[data-track]");if(target)window.magicTrack(target.dataset.track,{video_id:target.dataset.videoId||undefined,article_slug:target.dataset.articleSlug||undefined,page_path:location.pathname})});
+
+// Facebook's mobile sharer URL can be intercepted by the Facebook iOS app and
+// lose its `u` parameter. On mobile, use the operating system's share sheet so
+// the destination URL is passed to the selected app as share data. Desktop
+// browsers keep using Facebook's web sharer as before.
+const isMobileShareDevice=()=>/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
+const sharedUrlFromFacebookLink=link=>{
+  try{return new URL(link.href).searchParams.get("u")||location.href}catch{return location.href}
+};
+document.addEventListener("click",async event=>{
+  const link=event.target.closest("a.facebook-share");
+  if(!link||!isMobileShareDevice()||typeof navigator.share!=="function")return;
+  event.preventDefault();
+  try{
+    await navigator.share({title:document.title,url:sharedUrlFromFacebookLink(link)});
+  }catch(error){
+    if(error?.name!=="AbortError")location.href=link.href;
+  }
+});
 document.querySelectorAll("[data-consent-settings]").forEach(button=>button.addEventListener("click",()=>{localStorage.removeItem(consentKey);location.reload()}));
 if("serviceWorker" in navigator&&location.protocol.startsWith("http"))window.addEventListener("load",()=>navigator.serviceWorker.register("/sw.js").catch(()=>{}));
