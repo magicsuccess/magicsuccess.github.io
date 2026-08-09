@@ -6,10 +6,10 @@ const json = async (path) =>
 test("FAQ expansion is balanced, cautious, and deep-linkable", async () => {
   const data = await json("data/faqs.json"),
     counts = Object.groupBy(data.items, (x) => x.category);
-  assert.equal(data.items.length, 60);
+  assert.equal(data.items.length, 180);
   assert.deepEqual(
     Object.values(counts).map((x) => x.length),
-    [10, 10, 10, 10, 10, 10],
+    [30, 30, 30, 30, 30, 30],
   );
   assert.equal(
     data.items.every(
@@ -18,7 +18,7 @@ test("FAQ expansion is balanced, cautious, and deep-linkable", async () => {
     true,
   );
   const risk = counts["Risk Management"];
-  assert.equal(risk.length, 10);
+  assert.equal(risk.length, 30);
   assert.equal(
     risk.every(
       (x) => x.sourceStatus === "general-practice-needs-context-review",

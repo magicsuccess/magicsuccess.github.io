@@ -954,7 +954,7 @@ FAQ แต่ละรายการควรมี:
 | งาน | สถานะ MVP | สิ่งที่เสร็จในรอบนี้ | สิ่งที่ยังต้องทำก่อน Done |
 |---|---|---|---|
 | WEB-001 | Review / Boundary implemented | API boundary, default-deny service status, server-side member/admin checks และ env allowlist contract | OAuth adapter, session/DB, Admin UI, audit และ provider tests |
-| WEB-002 | Review / Partial | FAQ 60/180 (10 ข้อต่อหมวด), search/filter/tag/deep link/copy, related items, local-only helpful feedback และ source-status/ข้อจำกัด | เขียนและตรวจอีก 120 ข้อ, public sources/reviewers โดยเฉพาะ Risk Management, admin history |
+| WEB-002 | Complete / Structure Reviewed | FAQ 180/180 (6 หมวด หมวดละ 30 ข้อ), search/filter/tag/deep link/copy, related items, local-only helpful feedback และ source-status/ข้อจำกัด | ทบทวนแหล่งอ้างอิงสาธารณะ/reviewer ตามรอบ โดยเฉพาะ Risk Management และพัฒนา admin history ในอนาคต |
 | WEB-003 | Review / Architecture only | 4-category catalog UX, versioned schema/import policy, deterministic fail-closed validator, comparison architecture, disclosure และ 0 fake listings | Shopee approval/feed, real listings, link/compliance review, conversion import |
 | WEB-004 | Review / MVP | Privacy, cookies/consent, terms, affiliate, medical, financial และ data-request disclosure | ยืนยัน privacy contact และ legal review เมื่อ provider ถูกเลือก |
 | WEB-005 | Review / MVP | Canonical/absolute OG, generated WebPage/Breadcrumb และ Article JSON-LD, sitemap และ deterministic metadata checks | Search Console/GA Data integrations และ external rich-result validation |
