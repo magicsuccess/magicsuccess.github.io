@@ -1,8 +1,9 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-10T18:30:00+07:00",
+  "updatedAt": "2026-08-11T10:22:00+07:00",
   "categories": ["ท่องเที่ยว", "AI", "แรงบันดาลใจ", "การลงทุน", "ธรรมะ", "ทองคำ", "English Daily"],
   "items": [
+    {"slug":"english-daily-nature-landscape-prompts","title":"9 วลีภาษาอังกฤษสำหรับเขียน Prompt ภาพธรรมชาติและวิวให้มีอารมณ์","excerpt":"ฝึกบรรยายภูเขา ทะเล ป่า แสง อากาศ และมุมกล้อง พร้อมคำอ่าน สถานการณ์จริง จุดที่มักใช้ผิด และ Prompt ฝึกกับ AI","category":"English Daily","date":"2026-08-11","updatedAt":"2026-08-11","readingTime":"11 นาที","file":"content/english-daily-nature-landscape-prompts.md","image":"assets/images/articles/english-daily-nature-landscape-prompts.webp","imageAlt":"ทางเดินป่าริมทะเลสาบสีฟ้าใส มองไปยังภูเขามีหมอกบางและชายฝั่งไกลออกไปในแสงพระอาทิตย์ขึ้น"},
     {"slug":"ai-professional-email-workflow","title":"ใช้ AI ร่างอีเมลมืออาชีพจากโน้ตกระจัดกระจาย โดยไม่ส่งข้อมูลเกินจำเป็น","excerpt":"เปลี่ยนโน้ตดิบเป็นอีเมลติดตามงานที่สุภาพและตรวจสอบได้ ด้วยการ์ดข้อมูล 4 ใบ Prompt พร้อมใช้ ตัวอย่างจริง และ Quality Gate 90 วินาที","category":"AI","date":"2026-08-10","updatedAt":"2026-08-10","readingTime":"8 นาที","file":"content/ai-professional-email-workflow.md","image":"assets/images/articles/ai-professional-email-workflow.webp","imageAlt":"คนทำงานชาวไทยกำลังเปลี่ยนโน้ตบนโต๊ะเป็นร่างอีเมลมืออาชีพด้วย AI บนแล็ปท็อป"},
     {"slug":"english-daily-portrait-fashion-prompts","title":"8 วลีภาษาอังกฤษสำหรับเขียน Prompt ภาพ Portrait และ Fashion ให้ตรงใจ","excerpt":"ฝึกบรรยายตัวแบบ เสื้อผ้า ท่าทาง แสง ฉาก และสไตล์ พร้อมคำอ่าน สถานการณ์จริง จุดที่มักใช้ผิด และ Prompt ฝึกกับ AI","category":"English Daily","date":"2026-08-10","updatedAt":"2026-08-10","readingTime":"10 นาที","file":"content/english-daily-portrait-fashion-prompts.md","image":"assets/images/articles/english-daily-portrait-fashion-prompts.webp","imageAlt":"หญิงไทยในชุดแฟชั่นโทนครีมนั่งโพสในสตูดิโอแสงอุ่นและฉากสีน้ำเงินสำหรับฝึกเขียน Prompt ภาพ Portrait"},
     {
