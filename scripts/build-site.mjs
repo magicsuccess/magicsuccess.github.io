@@ -8,6 +8,7 @@ const files = [
   "index.html",
   "youtube.html",
   "content.html",
+  "reports.html",
   "article.html",
   "faqs.html",
   "products.html",
@@ -119,6 +120,7 @@ for (const dir of [
   "content",
   "articles",
   "products",
+  "reports",
   "server",
   ".openai",
 ]) {
@@ -137,7 +139,8 @@ const products = JSON.parse(
 ).items
   .filter((x) => x.status === "Published" && x.complianceStatus === "approved")
   .map((x) => `products/${x.slug}/`);
-const urls = [...pages, ...articles, ...products]
+const reports = ["reports/2026-08-gold-forex.html"];
+const urls = [...pages, ...articles, ...products, ...reports]
   .map(
     (p) =>
       `  <url><loc>https://magicsuccessthailand.com/${p === "index.html" ? "" : p}</loc></url>`,
