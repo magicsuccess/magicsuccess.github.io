@@ -1,7 +1,8 @@
 const grid = document.querySelector("#product-grid"),
   form = document.querySelector("#product-form");
 let items = [],
-  compare = new Set();
+  compare = new Set(),
+  merchandising = null;
 const esc = (value) =>
   String(value).replace(
     /[&<>"']/g,
@@ -23,6 +24,14 @@ const render = () => {
           .includes(q)) &&
       (!category || x.category === category),
   );
+  const ranks = new Map(
+    (merchandising?.top10Ids || []).map((id, index) => [id, index + 1]),
+  );
+  rows.sort(
+    (a, b) =>
+      (ranks.get(a.id) || Number.MAX_SAFE_INTEGER) -
+      (ranks.get(b.id) || Number.MAX_SAFE_INTEGER),
+  );
   const price = (x) =>
     x.price
       ? `฿${Number(x.price.min).toLocaleString("th-TH")} <small>ณ วันที่ตรวจ</small>`
@@ -30,7 +39,7 @@ const render = () => {
   grid.innerHTML = rows.length
     ? `${rows.map((x) => {
         const itemUrl = new URL(`products/${x.slug}/`, location.href).href;
-        return `<article class="product-card" id="${esc(x.slug)}">${x.imageUrl ? `<img class="product-image" src="${esc(x.imageUrl)}" alt="${esc(x.name)}" loading="lazy">` : ""}<p class="meta">ตรวจล่าสุด ${esc(x.checkedAt)} · ร้าน ${esc(x.shopName || "ตรวจใน Shopee")}</p><h2>${esc(x.name)}</h2><p>${esc(x.description)}</p><p class="product-price">${price(x)}</p><h3>จุดเด่น</h3><p>${esc(x.highlights.join(" · "))}</p><h3>ข้อควรตรวจ</h3><p>${esc(x.limitations.join(" · "))}</p><label><input type="checkbox" data-compare="${esc(x.id)}" ${compare.has(x.id) ? "checked" : ""}> เปรียบเทียบ</label><div class="share-actions">${x.status === "Published" && x.affiliateUrl ? `<a class="button affiliate-link" target="_blank" rel="sponsored nofollow noopener" data-product-id="${esc(x.id)}" href="${esc(x.affiliateUrl)}">ดูราคาใน Shopee</a>` : ""}<a class="button secondary facebook-share" target="_blank" rel="noopener noreferrer" data-track="facebook_share" href="${esc(facebookShare(itemUrl))}">แชร์ไป Facebook</a></div>${x.status === "Published" && x.affiliateUrl ? `<small>ลิงก์ Affiliate — เว็บไซต์อาจได้รับค่าคอมมิชชัน โดยผู้ซื้อไม่เสียค่าใช้จ่ายเพิ่ม</small>` : ""}</article>`;
+        return `<article class="product-card" id="${esc(x.slug)}"><p class="eyebrow">${ranks.has(x.id) ? `อันดับแนะนำ #${ranks.get(x.id)}` : "สินค้าเพิ่มเติม"}</p>${x.imageUrl ? `<img class="product-image" src="${esc(x.imageUrl)}" alt="${esc(x.name)}" loading="lazy">` : ""}<p class="meta">ตรวจล่าสุด ${esc(x.checkedAt)} · ร้าน ${esc(x.shopName || "ตรวจใน Shopee")}</p><h2>${esc(x.name)}</h2><p>${esc(x.description)}</p><p class="product-price">${price(x)}</p><h3>จุดเด่น</h3><p>${esc(x.highlights.join(" · "))}</p><h3>ข้อควรตรวจ</h3><p>${esc(x.limitations.join(" · "))}</p><label><input type="checkbox" data-compare="${esc(x.id)}" ${compare.has(x.id) ? "checked" : ""}> เปรียบเทียบ</label><div class="share-actions">${x.status === "Published" && x.affiliateUrl ? `<a class="button affiliate-link" target="_blank" rel="sponsored nofollow noopener" data-product-id="${esc(x.id)}" href="${esc(x.affiliateUrl)}">ดูราคาใน Shopee</a>` : ""}<a class="button secondary facebook-share" target="_blank" rel="noopener noreferrer" data-track="facebook_share" href="${esc(facebookShare(itemUrl))}">แชร์ไป Facebook</a></div>${x.status === "Published" && x.affiliateUrl ? `<small>ลิงก์ Affiliate — เว็บไซต์อาจได้รับค่าคอมมิชชัน โดยผู้ซื้อไม่เสียค่าใช้จ่ายเพิ่ม</small>` : ""}</article>`;
       }).join("")}<div class="compare-bar" aria-live="polite">เลือกเปรียบเทียบ ${compare.size} รายการ${compare.size > 1 ? " · ตารางเปรียบเทียบจะแสดงเฉพาะข้อมูลที่ตรวจแล้ว" : ""}</div>`
     : '<div class="empty-box"><h2>ยังไม่มีรายการสินค้าที่ผ่านการตรวจ</h2><p>โครงสร้างรองรับค้นหา กรอง และเลือกเปรียบเทียบแล้ว แต่เราไม่สร้างชื่อสินค้า ราคา คะแนน รีวิว ร้านค้า หรือลิงก์ Affiliate ขึ้นเอง รายการจะปรากฏหลังผ่าน validation และ compliance review</p></div>';
 };
@@ -40,6 +49,16 @@ try {
     return r.json();
   });
   items = data.items;
+  merchandising = data.merchandising || null;
+  let summary = document.querySelector("#product-ranking-summary");
+  if (!summary && form) {
+    summary = document.createElement("div");
+    summary.id = "product-ranking-summary";
+    summary.className = "notice";
+    form.before(summary);
+  }
+  if (summary && merchandising)
+    summary.innerHTML = `<strong>${esc(merchandising.label)}</strong> · รอบสัปดาห์ ${esc(merchandising.weekOf)} · เป็นลำดับแนะนำเชิงบรรณาธิการ ไม่ใช่อันดับยอดขายจาก Shopee`;
   const category = form?.querySelector("#pc");
   for (const row of data.categories)
     category?.add(new Option(row.label, row.id));

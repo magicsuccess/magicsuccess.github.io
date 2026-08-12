@@ -7,6 +7,8 @@
     "build:faqs": "node scripts/expand-faqs.mjs",
     "build:articles": "node scripts/build-articles.mjs",
     "build:products": "node scripts/build-products.mjs",
+    "products:check": "node scripts/check-product-links.mjs",
+    "products:rotate": "node scripts/rotate-product-top10.mjs",
     "build:site": "node scripts/build-site.mjs",
     "build": "npm run build:faqs && npm run build:articles && npm run build:products && npm run build:site",
     "sync:youtube": "node scripts/sync-youtube.mjs",
