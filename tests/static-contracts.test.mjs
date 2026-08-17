@@ -131,3 +131,14 @@ test("every published product has a crawlable share page with its own image", as
   const productJs = await readFile(new URL("../assets/js/products.js", import.meta.url), "utf8");
   assert.match(productJs, /products\/\$\{x\.slug\}\//);
 });
+test("Shopee affiliate clicks use one consent-aware GA4 event with useful dimensions", async () => {
+  const mainJs = await readFile(new URL("../assets/js/main.js", import.meta.url), "utf8");
+  const productsJs = await readFile(new URL("../assets/js/products.js", import.meta.url), "utf8");
+  assert.match(mainJs, /shopee_affiliate_click/);
+  assert.match(mainJs, /product_id:/);
+  assert.match(mainJs, /content_slug:/);
+  assert.match(mainJs, /link_domain:/);
+  assert.match(mainJs, /page_path:/);
+  assert.match(mainJs, /localStorage\.getItem\(consentKey\)==="granted"/);
+  assert.doesNotMatch(productsJs, /magicTrack\?\.\("affiliate_click"/);
+});

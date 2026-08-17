@@ -71,13 +71,6 @@ try {
     e.target.checked ? compare.add(id) : compare.delete(id);
     render();
   });
-  grid.addEventListener("click", (e) => {
-    const link = e.target.closest(".affiliate-link");
-    if (link)
-      window.magicTrack?.("affiliate_click", {
-        product_id: link.dataset.productId,
-      });
-  });
 } catch {
   grid.innerHTML =
     '<p class="notice">โหลดแคตตาล็อกไม่สำเร็จ กรุณาลองใหม่ภายหลัง</p>';

@@ -46,7 +46,36 @@ window.magicTrack=(eventName,details={})=>{
   window.dispatchEvent(new CustomEvent("magic:analytics",{detail:{eventName,...details}}));
   if(localStorage.getItem(consentKey)==="granted")gtag("event",eventName,details);
 };
-document.addEventListener("click",event=>{const target=event.target.closest("[data-track]");if(target)window.magicTrack(target.dataset.track,{video_id:target.dataset.videoId||undefined,article_slug:target.dataset.articleSlug||undefined,page_path:location.pathname})});
+const pageContentSlug=()=>{
+  const match=location.pathname.match(/^\/(?:articles|products)\/([^/]+)\/?$/);
+  return match?.[1];
+};
+const isShopeeAffiliateLink=link=>{
+  try{
+    const host=new URL(link.href,location.href).hostname.toLowerCase();
+    return link.classList.contains("affiliate-link")&&(host==="s.shopee.co.th"||host.endsWith(".shopee.co.th"));
+  }catch{return false}
+};
+document.addEventListener("click",event=>{
+  const target=event.target.closest("a,button");
+  if(!target)return;
+  if(isShopeeAffiliateLink(target)){
+    window.magicTrack("shopee_affiliate_click",{
+      product_id:target.dataset.productId||undefined,
+      content_slug:target.dataset.articleSlug||pageContentSlug(),
+      link_domain:new URL(target.href,location.href).hostname,
+      link_text:target.textContent.trim().slice(0,100),
+      page_path:location.pathname,
+    });
+    return;
+  }
+  if(target.dataset.track)window.magicTrack(target.dataset.track,{
+    video_id:target.dataset.videoId||undefined,
+    article_slug:target.dataset.articleSlug||undefined,
+    product_id:target.dataset.productId||undefined,
+    page_path:location.pathname,
+  });
+});
 
 // Facebook's mobile sharer URL can be intercepted by the Facebook iOS app and
 // lose its `u` parameter. On mobile, use the operating system's share sheet so
