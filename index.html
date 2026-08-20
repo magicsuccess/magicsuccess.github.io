@@ -26,6 +26,7 @@
       <span>MAGICSUCCESS <small>THAILAND</small></span>
     </a>
     <button class="menu-button" aria-expanded="false" aria-controls="nav">เมนู</button>
+    <a class="mobile-product-shortcut" href="products.html" data-track="nav_menu_click" data-menu-name="สินค้า">สินค้า</a>
     <nav id="nav" aria-label="เมนูหลัก">
       <a href="search.html">ค้นหา</a><a href="youtube.html">YouTube</a>
       <a href="content.html">บทความ</a><a href="reports.html">รายงานตลาด</a><a href="faqs.html">FAQs</a><a href="products.html">สินค้า</a>
@@ -101,6 +102,26 @@
       </div>
     </section>
 
+    <section class="section home-products" aria-labelledby="home-products-title">
+      <div class="section-heading reveal"><p class="eyebrow">PRODUCTS WE REVIEW</p><h2 id="home-products-title">สินค้าแนะนำ<br>ที่เลือกดูได้ทันที</h2><p class="section-intro">แสดง 3 รายการจากสินค้าที่ผ่านการตรวจ โดยคงรายการที่ได้รับความสนใจและหมุนเวียนรายการอื่นอย่างเป็นธรรม ราคาและสถานะอาจเปลี่ยนได้ โปรดตรวจข้อมูลล่าสุดใน Shopee</p></div>
+      <div id="home-product-grid" class="home-product-grid" aria-live="polite"><p class="notice">กำลังโหลดสินค้าแนะนำ…</p></div>
+      <div class="section-actions"><a class="button primary" href="products.html" data-track="view_all_products_click">ดูสินค้าทั้งหมด</a></div>
+    </section>
+
+    <section class="section home-bestseller" aria-labelledby="home-bestseller-title">
+      <div class="section-heading reveal"><p class="eyebrow">MOST INTERESTED</p><h2 id="home-bestseller-title">สินค้าที่ได้รับความสนใจ</h2></div>
+      <div id="home-bestseller-card" aria-live="polite"><p class="notice">กำลังโหลดรายการ…</p></div>
+    </section>
+
+    <section class="section home-latest" aria-labelledby="home-latest-title">
+      <div class="section-heading reveal"><p class="eyebrow">LATEST FROM MAGIC SUCCESS</p><h2 id="home-latest-title">อ่านเรื่องล่าสุด<br>แล้วต่อยอดได้ทันที</h2></div>
+      <div class="home-latest-grid">
+        <article id="home-faq-preview" class="home-preview-card"><p class="notice">กำลังโหลดคำถาม…</p></article>
+        <article id="home-article-preview" class="home-preview-card"><p class="notice">กำลังโหลดบทความ…</p></article>
+        <article id="home-report-preview" class="home-preview-card"><p class="notice">กำลังโหลดรายงานตลาด…</p></article>
+      </div>
+    </section>
+
     <section class="section identity">
       <div class="identity-logo reveal"><img src="assets/images/magicsuccess-logo.jpg" alt="โลโก้หลัก MagicSuccess Thailand"></div>
       <div class="reveal"><p class="eyebrow">BRAND IDENTITY</p><h2>Navy for trust.<br>Cream for warmth.<br><span>Gold for possibility.</span></h2><p>ภาพลักษณ์ของเราสงบ มั่นใจ และอบอุ่น เหมือนเพื่อนร่วมทางที่พร้อมชวนคิดและเดินไปข้างหน้าด้วยกัน</p></div>
@@ -130,5 +151,6 @@
     <div class="footer-links"><a href="legal.html">Trust Center</a><a href="governance.html">มาตรฐานเนื้อหา</a><button type="button" data-consent-settings>คุกกี้</button><a href="#top">กลับด้านบน ↑</a></div>
   </footer>
   <script src="assets/js/main.js"></script>
+  <script type="module" src="assets/js/home.js"></script>
 </body>
 </html>

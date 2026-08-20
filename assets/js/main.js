@@ -62,6 +62,7 @@ document.addEventListener("click",event=>{
   if(isShopeeAffiliateLink(target)){
     window.magicTrack("shopee_affiliate_click",{
       product_id:target.dataset.productId||undefined,
+      product_title:target.dataset.productTitle||undefined,
       content_slug:target.dataset.articleSlug||pageContentSlug(),
       link_domain:new URL(target.href,location.href).hostname,
       link_text:target.textContent.trim().slice(0,100),
@@ -73,8 +74,17 @@ document.addEventListener("click",event=>{
     video_id:target.dataset.videoId||undefined,
     article_slug:target.dataset.articleSlug||undefined,
     product_id:target.dataset.productId||undefined,
+    product_title:target.dataset.productTitle||undefined,
+    content_title:target.dataset.contentTitle||undefined,
+    menu_name:target.dataset.menuName||undefined,
+    section:target.dataset.section||undefined,
     page_path:location.pathname,
   });
+});
+document.querySelectorAll(".site-header nav a").forEach(link=>{
+  if(link.dataset.track)return;
+  link.dataset.track="nav_menu_click";
+  link.dataset.menuName=link.textContent.trim();
 });
 
 // Facebook's mobile sharer URL can be intercepted by the Facebook iOS app and
