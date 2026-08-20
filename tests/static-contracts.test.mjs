@@ -136,9 +136,23 @@ test("Shopee affiliate clicks use one consent-aware GA4 event with useful dimens
   const productsJs = await readFile(new URL("../assets/js/products.js", import.meta.url), "utf8");
   assert.match(mainJs, /shopee_affiliate_click/);
   assert.match(mainJs, /product_id:/);
+  assert.match(mainJs, /product_title:/);
   assert.match(mainJs, /content_slug:/);
   assert.match(mainJs, /link_domain:/);
   assert.match(mainJs, /page_path:/);
   assert.match(mainJs, /localStorage\.getItem\(consentKey\)==="granted"/);
   assert.doesNotMatch(productsJs, /magicTrack\?\.\("affiliate_click"/);
+});
+test("homepage exposes mobile product access and data-backed discovery sections", async () => {
+  const home = await readFile(new URL("../index.html", import.meta.url), "utf8");
+  const homeJs = await readFile(new URL("../assets/js/home.js", import.meta.url), "utf8");
+  assert.match(home, /class="mobile-product-shortcut"/);
+  assert.match(home, /id="home-product-grid"/);
+  assert.match(home, /id="home-faq-preview"/);
+  assert.match(home, /id="home-article-preview"/);
+  assert.match(home, /id="home-report-preview"/);
+  assert.match(homeJs, /magic_product_interest_v1/);
+  assert.match(homeJs, /data-product-title/);
+  assert.match(homeJs, /ยังไม่อ้างว่าเป็น “สินค้าขายดี”/);
+  assert.match(homeJs, /data\/reports\.json/);
 });
