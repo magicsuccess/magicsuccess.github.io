@@ -143,6 +143,19 @@ test("Shopee affiliate clicks use one consent-aware GA4 event with useful dimens
   assert.match(mainJs, /localStorage\.getItem\(consentKey\)==="granted"/);
   assert.doesNotMatch(productsJs, /magicTrack\?\.\("affiliate_click"/);
 });
+test("GA4 groups page views and click events by public page category", async () => {
+  const mainJs = await readFile(new URL("../assets/js/main.js", import.meta.url), "utf8");
+  for (const group of [
+    "homepage",
+    "products",
+    "articles",
+    "faqs",
+    "market_reports",
+    "youtube",
+  ]) assert.match(mainJs, new RegExp(`return ["']${group}["']`));
+  assert.match(mainJs, /page_view[^\n]*content_group:contentGroup/);
+  assert.match(mainJs, /groupedDetails=\{content_group:contentGroup,\.\.\.details\}/);
+});
 test("homepage exposes mobile product access and data-backed discovery sections", async () => {
   const home = await readFile(new URL("../index.html", import.meta.url), "utf8");
   const homeJs = await readFile(new URL("../assets/js/home.js", import.meta.url), "utf8");
