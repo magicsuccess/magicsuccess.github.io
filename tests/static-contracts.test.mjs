@@ -131,6 +131,22 @@ test("every published product has a crawlable share page with its own image", as
   const productJs = await readFile(new URL("../assets/js/products.js", import.meta.url), "utf8");
   assert.match(productJs, /products\/\$\{x\.slug\}\//);
 });
+test("article, product, and market-report detail pages expose the complete primary navigation", async () => {
+  const expectedLabels = ["หน้าแรก", "ค้นหา", "YouTube", "บทความ", "รายงานตลาด", "FAQs", "สินค้า"];
+  const articles = await json("data/articles.json");
+  const products = await json("data/products.json");
+  const files = [
+    "article.html",
+    `articles/${articles.items[0].slug}/index.html`,
+    `products/${products.items[0].slug}/index.html`,
+    "reports/2026-08-gold-forex.html",
+  ];
+  for (const file of files) {
+    const html = await readFile(new URL(`../${file}`, import.meta.url), "utf8");
+    const nav = html.match(/<nav id="nav"[^>]*>([\s\S]*?)<\/nav>/)?.[1] || "";
+    for (const label of expectedLabels) assert.match(nav, new RegExp(`>${label}<`), `${file} misses ${label}`);
+  }
+});
 test("Shopee affiliate clicks use one consent-aware GA4 event with useful dimensions", async () => {
   const mainJs = await readFile(new URL("../assets/js/main.js", import.meta.url), "utf8");
   const productsJs = await readFile(new URL("../assets/js/products.js", import.meta.url), "utf8");
