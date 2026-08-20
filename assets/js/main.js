@@ -6,6 +6,18 @@ const items=document.querySelectorAll(".reveal");
 if(matchMedia("(prefers-reduced-motion: reduce)").matches){items.forEach(item=>item.classList.add("visible"))}else{const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add("visible");observer.unobserve(entry.target)}}),{threshold:.12});items.forEach(item=>observer.observe(item))}
 const GA_MEASUREMENT_ID=document.documentElement.dataset.gaMeasurementId||"G-TP4N7HZC27";
 const consentKey="magic_analytics_consent";
+const pageContentGroup=(pathname=location.pathname)=>{
+  const path=pathname.replace(/\/+$/,"")||"/";
+  if(path==="/"||path==="/index.html")return "homepage";
+  if(path==="/products.html"||path.startsWith("/products/"))return "products";
+  if(path==="/content.html"||path.startsWith("/articles/"))return "articles";
+  if(path==="/faqs.html")return "faqs";
+  if(path==="/reports.html"||path.startsWith("/reports/"))return "market_reports";
+  if(path==="/youtube.html")return "youtube";
+  if(path==="/search.html")return "search";
+  return "other";
+};
+const contentGroup=pageContentGroup();
 window.dataLayer=window.dataLayer||[];
 window.gtag=window.gtag||function(){window.dataLayer.push(arguments)};
 gtag("consent","default",{analytics_storage:"denied",ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",wait_for_update:500});
@@ -18,7 +30,7 @@ const loadAnalytics=()=>{
   document.head.append(script);
   gtag("js",new Date());
   gtag("config",GA_MEASUREMENT_ID,{send_page_view:false});
-  gtag("event","page_view",{page_title:document.title,page_location:location.href,page_path:location.pathname+location.search});
+  gtag("event","page_view",{page_title:document.title,page_location:location.href,page_path:location.pathname+location.search,content_group:contentGroup});
 };
 
 const setAnalyticsConsent=accepted=>{
@@ -43,8 +55,9 @@ if(savedConsent==="granted"){
 }
 
 window.magicTrack=(eventName,details={})=>{
-  window.dispatchEvent(new CustomEvent("magic:analytics",{detail:{eventName,...details}}));
-  if(localStorage.getItem(consentKey)==="granted")gtag("event",eventName,details);
+  const groupedDetails={content_group:contentGroup,...details};
+  window.dispatchEvent(new CustomEvent("magic:analytics",{detail:{eventName,...groupedDetails}}));
+  if(localStorage.getItem(consentKey)==="granted")gtag("event",eventName,groupedDetails);
 };
 const pageContentSlug=()=>{
   const match=location.pathname.match(/^\/(?:articles|products)\/([^/]+)\/?$/);
