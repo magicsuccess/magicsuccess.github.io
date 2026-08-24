@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-21T10:20:00+07:00",
+  "updatedAt": "2026-08-24T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "ai-task-brief-before-starting",
+      "title": "ก่อนให้ AI เริ่มงาน: เปลี่ยนคำสั่งคลุมเครือเป็น Task Brief 6 ช่อง",
+      "excerpt": "หยุดงานแก้ซ้ำด้วย Task Brief 6 ช่องที่แยกผลลัพธ์ ผู้ใช้ ข้อมูลอ้างอิง ข้อจำกัด เกณฑ์ผ่าน และจุดอนุมัติ พร้อม Prompt ตัวอย่างและเช็กลิสต์เริ่มใช้วันนี้",
+      "category": "AI",
+      "date": "2026-08-24",
+      "updatedAt": "2026-08-24",
+      "readingTime": "7 นาที",
+      "file": "content/ai-task-brief-before-starting.md",
+      "image": "assets/images/articles/ai-task-brief-before-starting.webp",
+      "imageAlt": "คนทำงานชาวไทยตรวจ Task Brief ที่รวมการ์ดโจทย์สี่ใบเป็นเอกสารพร้อมใช้บนแล็ปท็อปในห้องทำงานยามเย็น"
+    },
     {
       "slug": "english-daily-portrait-fashion-prompts-2026-08-21",
       "title": "8 วลีภาษาอังกฤษสำหรับเขียน Prompt ภาพ Portrait และ Fashion ให้ดูพรีเมียม",
