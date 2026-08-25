@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-24T18:30:00+07:00",
+  "updatedAt": "2026-08-25T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "ayutthaya-day-trip-train-bicycle",
+      "title": "อยุธยา 1 วันด้วยรถไฟและจักรยาน: แผนเที่ยวช้า งบไม่เกิน 900 บาท",
+      "excerpt": "วางทริปอยุธยาจากกรุงเทพฯ ด้วยรถไฟและจักรยานแบบไม่เร่ง มีเส้นทางสามจุด งบสมมติ เวลาเผื่อ เช็กลิสต์ตรวจรถ และแผนหยุดปั่นเมื่ออากาศหรือถนนไม่พร้อม",
+      "category": "ท่องเที่ยว",
+      "date": "2026-08-25",
+      "updatedAt": "2026-08-25",
+      "readingTime": "8 นาที",
+      "file": "content/ayutthaya-day-trip-train-bicycle.md",
+      "image": "assets/images/articles/ayutthaya-day-trip-train-bicycle.webp",
+      "imageAlt": "นักท่องเที่ยวชาวไทยสวมหมวกนิรภัยจูงจักรยานชมโบราณสถานอิฐแดงในอุทยานประวัติศาสตร์พระนครศรีอยุธยายามเช้า"
+    },
     {
       "slug": "ai-task-brief-before-starting",
       "title": "ก่อนให้ AI เริ่มงาน: เปลี่ยนคำสั่งคลุมเครือเป็น Task Brief 6 ช่อง",
