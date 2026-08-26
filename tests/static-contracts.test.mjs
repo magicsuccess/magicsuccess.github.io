@@ -130,6 +130,11 @@ test("every published product has a crawlable share page with its own image", as
   }
   const productJs = await readFile(new URL("../assets/js/products.js", import.meta.url), "utf8");
   assert.match(productJs, /products\/\$\{x\.slug\}\//);
+  assert.match(productJs, /renderComparison/);
+  assert.match(productJs, /data-show-compare/);
+  assert.match(productJs, /data-clear-compare/);
+  assert.match(productJs, /compare\.size >= 4/);
+  assert.match(productJs, /class="comparison-table"/);
 });
 test("article, product, and market-report detail pages expose the complete primary navigation", async () => {
   const expectedLabels = ["หน้าแรก", "ค้นหา", "YouTube", "บทความ", "รายงานตลาด", "FAQs", "สินค้า"];
