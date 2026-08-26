@@ -47,7 +47,7 @@ test("public website content does not reference restricted organization names", 
 });
 test("catalog publishes only reviewed affiliate listings", async () => {
   const data = await json("data/products.json");
-  assert.equal(data.items.length, 12);
+  assert.equal(data.items.length, 13);
   assert.equal(data.status, "published-reviewed-batch");
   assert.equal(
     data.items.every(
