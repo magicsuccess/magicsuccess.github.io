@@ -185,3 +185,27 @@ test("homepage exposes mobile product access and data-backed discovery sections"
   assert.match(homeJs, /ยังไม่อ้างว่าเป็น “สินค้าขายดี”/);
   assert.match(homeJs, /data\/reports\.json/);
 });
+
+test("seeded rotation is stable for one seed and changes across seeds", async () => {
+  const { seededShuffle } = await import("../assets/js/rotation.js");
+  const rows = Array.from({ length: 20 }, (_, index) => `item-${index}`);
+  const first = seededShuffle(rows, "2026-08-26");
+  const repeated = seededShuffle(rows, "2026-08-26");
+  const nextDay = seededShuffle(rows, "2026-08-27");
+  assert.deepEqual(first, repeated);
+  assert.notDeepEqual(first.slice(0, 10), nextDay.slice(0, 10));
+  assert.deepEqual([...first].sort(), [...rows].sort());
+});
+
+test("YouTube manual shuffle preserves the newly shuffled order", async () => {
+  const youtubeJs = await readFile(new URL("../assets/js/youtube.js", import.meta.url), "utf8");
+  assert.match(youtubeJs, /render\(shuffle\(items\),true\)/);
+  assert.match(youtubeJs, /preserveOrder\?source:dailyOrder\(source\)/);
+  assert.doesNotMatch(youtubeJs, /sort\(\(\)=>Math\.random\(\)-\.5\)/);
+});
+
+test("homepage data sections fail independently", async () => {
+  const homeJs = await readFile(new URL("../assets/js/home.js", import.meta.url), "utf8");
+  assert.match(homeJs, /for\(const \[url,render,roots\] of sections\)/);
+  assert.doesNotMatch(homeJs, /Promise\.all\(/);
+});
