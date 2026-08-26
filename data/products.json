@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "updatedAt": "2026-08-26",
   "status": "published-reviewed-batch",
-  "note": "แทนที่แคตตาล็อกเดิมด้วยลิงก์ Shopee Affiliate ที่ Jack ส่งเมื่อ 26 ส.ค. 2569 โดยตัดรายการซ้ำ 1 ลิงก์ ราคา โปรโมชัน และสถานะสินค้าอาจเปลี่ยน โปรดตรวจข้อมูลล่าสุดที่ Shopee",
+  "note": "เพิ่มสินค้า Shopee Affiliate ที่ Jack ส่งและตรวจ metadata วันที่ 26 ส.ค. 2569 ราคา โปรโมชัน และสถานะสินค้าอาจเปลี่ยน โปรดตรวจข้อมูลล่าสุดที่ Shopee",
   "categories": [
     {
       "id": "technology",
@@ -48,6 +48,265 @@
     "note": "ตัวนำเข้าต้องปฏิเสธข้อมูลที่ขาดแหล่งตรวจสอบ วันที่ตรวจ ผู้ตรวจ ข้อจำกัด หรือ compliance status"
   },
   "items": [
+    {
+      "id": "SHP-47860804481",
+      "slug": "kento-lite-12-mode-egg-cooker",
+      "name": "Kento Lite เครื่องต้มไข่มัลติฟังก์ชัน 12 โหมด",
+      "category": "food-drink",
+      "subcategory": "kitchen-appliance",
+      "description": "เครื่องต้มไข่มัลติฟังก์ชัน Kento Lite พร้อมหน้าจอสัมผัสและฟังก์ชันตั้งเวลาล่วงหน้าตามรายการสินค้า",
+      "highlights": [
+        "มีโหมดการทำงาน 12 โหมดตามชื่อรายการ",
+        "ตั้งเวลาล่วงหน้าได้สูงสุด 24 ชั่วโมง",
+        "มีหน้าจอสัมผัส"
+      ],
+      "limitations": [
+        "ตรวจรุ่น สี และอุปกรณ์ในชุดก่อนสั่งซื้อ",
+        "จำนวนไข่และผลลัพธ์ขึ้นกับขนาดไข่ ปริมาณน้ำ และเวลาที่ตั้ง",
+        "ตรวจเงื่อนไขรับประกันกับผู้ขายก่อนซื้อ"
+      ],
+      "suitableFor": [
+        "ผู้ที่ต้องการเตรียมไข่และอาหารนึ่งปริมาณเล็กน้อย"
+      ],
+      "notSuitableFor": [
+        "ผู้ที่ต้องการเครื่องใช้ไฟฟ้าเชิงพาณิชย์หรือความจุสูง"
+      ],
+      "sourceUrl": "https://shopee.co.th/product/1664929262/47860804481",
+      "affiliateUrl": "https://s.shopee.co.th/5VUpMgrocC",
+      "imageUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mof5k7m6f0ukef",
+      "checkedAt": "2026-08-26",
+      "reviewedBy": "Mei — affiliate redirect and product-page metadata verification",
+      "status": "Published",
+      "complianceStatus": "approved",
+      "disclosureVersion": "affiliate-v1",
+      "tags": [
+        "เครื่องต้มไข่",
+        "Kento Lite",
+        "เครื่องใช้ในครัว"
+      ]
+    },
+    {
+      "id": "SHP-46651233823",
+      "slug": "kento-lite-6-mode-egg-cooker",
+      "name": "Kento Lite เครื่องต้มไข่มัลติฟังก์ชัน 6 โหมด",
+      "category": "food-drink",
+      "subcategory": "kitchen-appliance",
+      "description": "เครื่องต้มไข่ Kento Lite แบบมัลติฟังก์ชัน มีโหมดตั้งเวลาและหน้าจอสัมผัสตามรายการสินค้า",
+      "highlights": [
+        "มีโหมดการทำงาน 6 โหมดตามชื่อรายการ",
+        "ตั้งเวลาล่วงหน้าได้สูงสุด 24 ชั่วโมง",
+        "ออกแบบสำหรับต้มไข่และนึ่งอาหารปริมาณเล็กน้อย"
+      ],
+      "limitations": [
+        "หน้าสินค้าอาจมีหลายตัวเลือกซึ่งสเปกต่างกัน",
+        "ตรวจจำนวนไข่ที่รองรับและอุปกรณ์ในชุดของตัวเลือกที่จะซื้อ",
+        "อ่านคู่มือและหลีกเลี่ยงการสัมผัสไอน้ำร้อน"
+      ],
+      "suitableFor": [
+        "ครัวเรือนที่ต้องการเครื่องต้มไข่ขนาดกะทัดรัด"
+      ],
+      "notSuitableFor": [
+        "การใช้งานต่อเนื่องแบบเชิงพาณิชย์"
+      ],
+      "sourceUrl": "https://shopee.co.th/product/1029519716/46651233823",
+      "affiliateUrl": "https://s.shopee.co.th/6AkWA0UDvo",
+      "imageUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mqn1u1kdyccrd1",
+      "checkedAt": "2026-08-26",
+      "reviewedBy": "Mei — affiliate redirect and product-page metadata verification",
+      "status": "Published",
+      "complianceStatus": "approved",
+      "disclosureVersion": "affiliate-v1",
+      "tags": [
+        "เครื่องต้มไข่",
+        "Kento Lite",
+        "ตั้งเวลา"
+      ]
+    },
+    {
+      "id": "SHP-27506587805",
+      "slug": "kento-lite-automatic-multifunction-egg-cooker",
+      "name": "Kento Lite เครื่องต้มไข่อัตโนมัติแบบอเนกประสงค์",
+      "category": "food-drink",
+      "subcategory": "kitchen-appliance",
+      "description": "เครื่องต้มไข่อัตโนมัติ Kento Lite สำหรับต้มไข่และงานนึ่งขนาดเล็กตามตัวเลือกสินค้า",
+      "highlights": [
+        "ใช้งานสำหรับต้มไข่",
+        "รูปแบบกะทัดรัด",
+        "มีฟังก์ชันอเนกประสงค์ตามรายการ"
+      ],
+      "limitations": [
+        "ตรวจความจุ กำลังไฟ และอุปกรณ์ในชุดจากตัวเลือกก่อนซื้อ",
+        "ผลลัพธ์ของไข่ขึ้นกับปริมาณน้ำ เวลา และขนาดไข่",
+        "ระวังพื้นผิวและไอน้ำร้อนระหว่างใช้งาน"
+      ],
+      "suitableFor": [
+        "ผู้ที่ต้องการอุปกรณ์ช่วยเตรียมอาหารเช้า"
+      ],
+      "notSuitableFor": [
+        "ผู้ที่ต้องการหม้อนึ่งความจุสูง"
+      ],
+      "sourceUrl": "https://shopee.co.th/product/750836204/27506587805",
+      "affiliateUrl": "https://s.shopee.co.th/5q7flTP8re",
+      "imageUrl": "https://down-th.img.susercontent.com/file/th-11134207-81zto-mejspsy8v7k43a",
+      "checkedAt": "2026-08-26",
+      "reviewedBy": "Mei — affiliate redirect and product-page metadata verification",
+      "status": "Published",
+      "complianceStatus": "approved",
+      "disclosureVersion": "affiliate-v1",
+      "tags": [
+        "เครื่องต้มไข่",
+        "Kento Lite",
+        "อาหารเช้า"
+      ]
+    },
+    {
+      "id": "SHP-47816347992",
+      "slug": "2000w-electric-food-steamer-egg-boiler",
+      "name": "หม้อนึ่งไฟฟ้า 2000W และหม้อต้มไข่",
+      "category": "food-drink",
+      "subcategory": "kitchen-appliance",
+      "description": "หม้อนึ่งไฟฟ้าสำหรับต้มไข่และนึ่งอาหาร โดยชื่อรายการระบุกำลังไฟ 2000W",
+      "highlights": [
+        "ใช้ต้มและนึ่งอาหาร",
+        "กำลังไฟ 2000W ตามชื่อรายการ",
+        "เหมาะกับอาหารหลายประเภทตามภาชนะที่รองรับ"
+      ],
+      "limitations": [
+        "ตรวจแรงดันไฟ ปลั๊ก ขนาด และกำลังไฟจริงของตัวเลือกก่อนซื้อ",
+        "ข้อความรับประกันในหน้าสินค้าเป็นเงื่อนไขของผู้ขาย ควรยืนยันก่อนสั่งซื้อ",
+        "ระวังไอน้ำ น้ำเดือด และพื้นผิวร้อน"
+      ],
+      "suitableFor": [
+        "ผู้ที่ต้องการหม้อนึ่งไฟฟ้าอเนกประสงค์ในครัวเรือน"
+      ],
+      "notSuitableFor": [
+        "วงจรไฟฟ้าหรือเต้ารับที่ไม่รองรับกำลังไฟของอุปกรณ์"
+      ],
+      "sourceUrl": "https://shopee.co.th/product/1784451319/47816347992",
+      "affiliateUrl": "https://s.shopee.co.th/6q0CxQzt05",
+      "imageUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-ms3y8zl4cgsic8",
+      "checkedAt": "2026-08-26",
+      "reviewedBy": "Mei — affiliate redirect and product-page metadata verification",
+      "status": "Published",
+      "complianceStatus": "approved",
+      "disclosureVersion": "affiliate-v1",
+      "tags": [
+        "หม้อนึ่งไฟฟ้า",
+        "เครื่องต้มไข่",
+        "เครื่องใช้ในครัว"
+      ]
+    },
+    {
+      "id": "SHP-51360784660",
+      "slug": "eihome-9-mode-egg-cooker",
+      "name": "Eihome เครื่องต้มไข่ 9 โหมด",
+      "category": "food-drink",
+      "subcategory": "kitchen-appliance",
+      "description": "เครื่องต้มไข่ Eihome แบบตั้งเวลาได้ พร้อมโหมดการทำงานหลายรูปแบบตามรายการสินค้า",
+      "highlights": [
+        "มี 9 โหมดตามชื่อรายการ",
+        "ตั้งเวลาล่วงหน้าได้สูงสุด 24 ชั่วโมง",
+        "ออกแบบสำหรับต้มไข่และเตรียมอาหารขนาดเล็ก"
+      ],
+      "limitations": [
+        "ตรวจสี รุ่น ความจุ และอุปกรณ์ในชุดก่อนซื้อ",
+        "เวลาและระดับความสุกอาจต้องปรับตามขนาดไข่",
+        "ยืนยันเงื่อนไขรับประกันกับผู้ขาย"
+      ],
+      "suitableFor": [
+        "ผู้ที่ต้องการตั้งเวลาเตรียมไข่ล่วงหน้า"
+      ],
+      "notSuitableFor": [
+        "การนึ่งอาหารปริมาณมาก"
+      ],
+      "sourceUrl": "https://shopee.co.th/product/1760248897/51360784660",
+      "affiliateUrl": "https://s.shopee.co.th/7Ad3M5gM8v",
+      "imageUrl": "https://down-th.img.susercontent.com/file/th-11134207-81zth-mogoai4v3955d7",
+      "checkedAt": "2026-08-26",
+      "reviewedBy": "Mei — affiliate redirect and product-page metadata verification",
+      "status": "Published",
+      "complianceStatus": "approved",
+      "disclosureVersion": "affiliate-v1",
+      "tags": [
+        "เครื่องต้มไข่",
+        "Eihome",
+        "ตั้งเวลา"
+      ]
+    },
+    {
+      "id": "SHP-52265923725",
+      "slug": "multifunction-egg-boiler",
+      "name": "เครื่องต้มไข่มัลติฟังก์ชัน Egg Boiler",
+      "category": "food-drink",
+      "subcategory": "kitchen-appliance",
+      "description": "เครื่องต้มไข่แบบมัลติฟังก์ชันสำหรับเตรียมไข่และอาหารนึ่งปริมาณเล็กน้อยตามตัวเลือกสินค้า",
+      "highlights": [
+        "ใช้ต้มไข่",
+        "รองรับงานนึ่งขนาดเล็กตามรายการ",
+        "ขนาดเหมาะกับการใช้งานในครัวเรือน"
+      ],
+      "limitations": [
+        "คำว่า ‘สินค้ายอดนิยม’ เป็นข้อความจากผู้ขาย ไม่ใช่อันดับยอดขายที่เว็บไซต์รับรอง",
+        "ตรวจวัสดุ ความจุ กำลังไฟ และอุปกรณ์ในชุดก่อนซื้อ",
+        "ระวังไอน้ำและภาชนะร้อน"
+      ],
+      "suitableFor": [
+        "ผู้ที่ต้องการเครื่องต้มไข่ใช้งานทั่วไป"
+      ],
+      "notSuitableFor": [
+        "ผู้ที่ต้องการข้อมูลอันดับยอดขายที่ผ่านการตรวจสอบอิสระ"
+      ],
+      "sourceUrl": "https://shopee.co.th/product/1823740884/52265923725",
+      "affiliateUrl": "https://s.shopee.co.th/4AzRmgtUEm",
+      "imageUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztf-mrtsih1ktukna5",
+      "checkedAt": "2026-08-26",
+      "reviewedBy": "Mei — affiliate redirect and product-page metadata verification",
+      "status": "Published",
+      "complianceStatus": "approved",
+      "disclosureVersion": "affiliate-v1",
+      "tags": [
+        "เครื่องต้มไข่",
+        "Egg Boiler",
+        "เครื่องใช้ในครัว"
+      ]
+    },
+    {
+      "id": "SHP-53153061664",
+      "slug": "seagull-easy-life-4-egg-boiler",
+      "name": "Seagull เครื่องต้มไข่ Easy Life รุ่น 4 ฟอง",
+      "category": "food-drink",
+      "subcategory": "kitchen-appliance",
+      "description": "เครื่องต้มไข่ Seagull Easy Life สำหรับต้มไข่ได้สูงสุด 4 ฟองตามชื่อรายการสินค้า",
+      "highlights": [
+        "รองรับไข่สูงสุด 4 ฟองตามชื่อรายการ",
+        "แบรนด์ Seagull",
+        "รูปแบบกะทัดรัดสำหรับครัวเรือน"
+      ],
+      "limitations": [
+        "ตรวจอุปกรณ์ในชุดและวิธีตวงน้ำก่อนใช้งาน",
+        "ระดับความสุกขึ้นกับปริมาณน้ำและขนาดไข่",
+        "ราคาและโปรโมชันอาจเปลี่ยน"
+      ],
+      "suitableFor": [
+        "ครัวเรือนขนาดเล็กที่ต้มไข่ครั้งละไม่เกิน 4 ฟอง"
+      ],
+      "notSuitableFor": [
+        "ผู้ที่ต้องการต้มไข่จำนวนมากในครั้งเดียว"
+      ],
+      "sourceUrl": "https://shopee.co.th/product/84635067/53153061664",
+      "affiliateUrl": "https://s.shopee.co.th/19spANN8w",
+      "imageUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mi8ihbd8m3nr92",
+      "checkedAt": "2026-08-26",
+      "reviewedBy": "Mei — affiliate redirect and product-page metadata verification",
+      "status": "Published",
+      "complianceStatus": "approved",
+      "disclosureVersion": "affiliate-v1",
+      "tags": [
+        "เครื่องต้มไข่",
+        "Seagull",
+        "Easy Life"
+      ]
+    },
     {
       "id": "SHP-48356913056",
       "slug": "shopee-affiliate-2026-book",
