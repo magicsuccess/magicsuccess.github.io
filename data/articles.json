@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-25T18:30:00+07:00",
+  "updatedAt": "2026-08-26T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "stop-comparing-use-your-own-compass",
+      "title": "หยุดเทียบชีวิตกับไฮไลต์คนอื่น: ใช้เข็มทิศ 3 ช่องกลับมาวัดก้าวของตัวเอง",
+      "excerpt": "เปลี่ยนความรู้สึกว่าเราช้ากว่าคนอื่นเป็นข้อมูลและก้าวทดลอง ด้วยเข็มทิศ 3 ช่อง ขั้นตอน 15 นาที ตัวอย่างจริง บันทึกหลักฐาน และข้อควรระวัง",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-08-26",
+      "updatedAt": "2026-08-26",
+      "readingTime": "7 นาที",
+      "file": "content/stop-comparing-use-your-own-compass.md",
+      "image": "assets/images/articles/stop-comparing-use-your-own-compass.webp",
+      "imageAlt": "ชายไทยพักข้างลู่วิ่งยามเช้า ถือการ์ดบันทึกความก้าวหน้าของตัวเอง ขณะผู้คนด้านหลังวิ่งในช่องและจังหวะที่ต่างกัน"
+    },
     {
       "slug": "ayutthaya-day-trip-train-bicycle",
       "title": "อยุธยา 1 วันด้วยรถไฟและจักรยาน: แผนเที่ยวช้า งบไม่เกิน 900 บาท",
