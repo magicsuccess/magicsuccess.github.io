@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-27T18:30:00+07:00",
+  "updatedAt": "2026-08-27T19:50:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "english-daily-video-prompt-camera-motion-2026-08-27",
+      "title": "8 วลีภาษาอังกฤษสำหรับเขียน Prompt วิดีโอให้กล้องเคลื่อนนิ่งและเล่าเรื่องชัด",
+      "excerpt": "ฝึกเขียน Prompt วิดีโอภาษาอังกฤษให้ AI เข้าใจ camera motion, subject focus, background motion และ ending shot พร้อมคำอ่าน จุดที่มักใช้ผิด Practice Challenge และ Prompt ฝึกกับ AI",
+      "category": "English Daily",
+      "date": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "readingTime": "10 นาที",
+      "file": "content/english-daily-video-prompt-camera-motion-2026-08-27.md",
+      "image": "assets/images/articles/english-daily-video-prompt-camera-motion-2026-08-27.webp",
+      "imageAlt": "โต๊ะทำงานสมัยใหม่พร้อมแล็ปท็อปแสดงไทม์ไลน์สตอรีบอร์ดและไอคอนการเคลื่อนกล้อง สำหรับฝึกเขียน Prompt วิดีโอ AI"
+    },
     {
       "slug": "investment-loss-stress-test",
       "title": "ก่อนรับความเสี่ยง: Stress Test พอร์ต 3 ฉากทัศน์ว่าใจและเงินรับไหวแค่ไหน",
