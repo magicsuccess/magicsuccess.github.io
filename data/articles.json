@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-26T18:30:00+07:00",
+  "updatedAt": "2026-08-27T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "investment-loss-stress-test",
+      "title": "ก่อนรับความเสี่ยง: Stress Test พอร์ต 3 ฉากทัศน์ว่าใจและเงินรับไหวแค่ไหน",
+      "excerpt": "ทดสอบพอร์ตก่อนลงทุนด้วยสามฉากทัศน์ขาดทุน จับคู่เหตุการณ์รายได้สะดุด ตรวจทั้งเงินสำรองและพฤติกรรม พร้อม Portfolio Stress Card ที่คัดลอกใช้ได้",
+      "category": "การลงทุน",
+      "date": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "readingTime": "8 นาที",
+      "file": "content/investment-loss-stress-test.md",
+      "image": "assets/images/articles/investment-loss-stress-test.webp",
+      "imageAlt": "นักลงทุนชาวไทยกำลังเปรียบเทียบการ์ดจำลองพอร์ตขาลงสามฉากทัศน์กับข้อมูลบนแล็ปท็อปในห้องทำงานยามค่ำ"
+    },
     {
       "slug": "stop-comparing-use-your-own-compass",
       "title": "หยุดเทียบชีวิตกับไฮไลต์คนอื่น: ใช้เข็มทิศ 3 ช่องกลับมาวัดก้าวของตัวเอง",
