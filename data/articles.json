@@ -710,6 +710,18 @@
       "file": "content/english-daily-asking-help-directions.md",
       "image": "assets/images/articles/english-daily-directions.webp",
       "imageAlt": "นักท่องเที่ยวสองคนกำลังถามทางกับเจ้าหน้าที่ที่เคาน์เตอร์ข้อมูลพร้อมแผนที่"
+    },
+    {
+      "slug": "50-ai-prompts-sales-customer-care",
+      "title": "50 AI Prompts ปิดดีลและดูแลลูกค้า สำหรับเจ้าของธุรกิจรายย่อย",
+      "excerpt": "รวม 50 AI Prompts ภาษาไทยสำหรับตอบลูกค้า ปิดการขาย ติดตามผล และดูแลหลังการขาย พร้อมช่องแทนข้อมูลและข้อควรระวังเรื่องข้อมูลส่วนตัว",
+      "category": "AI",
+      "date": "2026-08-28",
+      "updatedAt": "2026-08-28",
+      "readingTime": "25 นาที",
+      "file": "content/50-ai-prompts-sales-customer-care.md",
+      "image": "assets/images/articles/ai.webp",
+      "imageAlt": "เจ้าของธุรกิจรายย่อยจัดหมวด Prompt สำหรับตอบลูกค้าและติดตามการขายบนแล็ปท็อป"
     }
   ]
 }
