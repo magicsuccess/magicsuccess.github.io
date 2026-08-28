@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-28T10:20:00+07:00",
+  "updatedAt": "2026-08-28T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "gold-total-cost-before-buying",
+      "title": "ก่อนซื้อทอง อย่าดูแค่ราคาหน้าร้าน: คำนวณต้นทุนจริง 4 ชั้นให้รู้จุดคุ้มทุน",
+      "excerpt": "คำนวณส่วนต่างราคา Premium ค่าเก็บรักษา ค่าใช้จ่ายตอนขาย และต้นทุนค่าเสียโอกาส พร้อม Gold Total Cost Card และตัวอย่าง 3 ฉากทัศน์",
+      "category": "ทองคำ",
+      "date": "2026-08-28",
+      "updatedAt": "2026-08-28",
+      "readingTime": "8 นาที",
+      "file": "content/gold-total-cost-before-buying.md",
+      "image": "assets/images/articles/gold-total-cost-before-buying.webp",
+      "imageAlt": "ทองคำแท่ง เครื่องคิดเลข เช็กลิสต์ และโทเคนสี่ชิ้นแทนส่วนต่างราคา ค่าใช้จ่ายผู้ค้า การเก็บรักษา และเวลา บนโต๊ะวางแผนสีน้ำเงินเข้ม"
+    },
     {
       "slug": "english-daily-video-generation-prompts-2026-08-28",
       "title": "9 วลีภาษาอังกฤษสำหรับเขียน Prompt วิดีโอ AI ให้คุมภาพ กล้อง และอารมณ์ได้ชัด",
