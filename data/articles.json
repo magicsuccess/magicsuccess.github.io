@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-29T10:20:00+07:00",
+  "updatedAt": "2026-08-29T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "stay-with-uncertainty-four-steps",
+      "title": "ใจร้อนเพราะยังไม่มีคำตอบ: ฝึกอยู่กับความไม่แน่นอนด้วยหลัก รู้–แยก–เลือก–รอ",
+      "excerpt": "รับมือช่วงรอคำตอบโดยไม่ตรวจซ้ำหรือสรุปล่วงหน้า ด้วยหลัก รู้–แยก–เลือก–รอ การ์ดใช้งานจริง ตัวอย่าง และขอบเขตที่ไม่ควรใช้การรอแทนความช่วยเหลือ",
+      "category": "ธรรมะ",
+      "date": "2026-08-29",
+      "updatedAt": "2026-08-29",
+      "readingTime": "8 นาที",
+      "file": "content/stay-with-uncertainty-four-steps.md",
+      "image": "assets/images/articles/stay-with-uncertainty-four-steps.webp",
+      "imageAlt": "ชายไทยนั่งอย่างสงบที่โต๊ะทำงานข้างโทรศัพท์คว่ำ สมุดปิด และก้อนหินสี่ก้อน ระหว่างฝึกอยู่กับความไม่แน่นอน"
+    },
     {
       "slug": "english-daily-mixed-review-advanced-2026-08-29",
       "title": "8 วลีภาษาอังกฤษสำหรับทบทวนรวมให้พูดชัด สุภาพ และเจาะจงขึ้น",
