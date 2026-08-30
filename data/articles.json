@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-30T10:20:00+07:00",
+  "updatedAt": "2026-08-30T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "emergency-life-folder-trusted-person",
+      "title": "แฟ้มชีวิตฉุกเฉิน 60 นาที: เตรียมข้อมูลให้คนที่ไว้ใจช่วยต่อได้เมื่อเราไม่พร้อม",
+      "excerpt": "จัดทำแฟ้มชีวิตฉุกเฉินแบบเปิดแล้วใช้ได้จริง แบ่งข้อมูลเป็นสี่ซอง กำหนดคนหลัก ขอบเขต และวิธีทดสอบ โดยไม่รวมรหัสผ่านหรือให้อำนาจเกินจำเป็น",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-08-30",
+      "updatedAt": "2026-08-30",
+      "readingTime": "8 นาที",
+      "file": "content/emergency-life-folder-trusted-person.md",
+      "image": "assets/images/articles/emergency-life-folder-trusted-person.webp",
+      "imageAlt": "คนไทยสองคนช่วยกันจัดแฟ้มเอกสาร กุญแจ ยาประจำ และข้อมูลติดต่อฉุกเฉินบนโต๊ะที่บ้านอย่างสงบ"
+    },
     {
       "slug": "english-daily-small-talk-greetings-2026-08-30",
       "title": "10 วลีภาษาอังกฤษสำหรับ Small Talk และการทักทายให้ดูสุภาพเป็นธรรมชาติ",
