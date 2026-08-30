@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-29T18:30:00+07:00",
+  "updatedAt": "2026-08-30T10:20:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "english-daily-small-talk-greetings-2026-08-30",
+      "title": "10 วลีภาษาอังกฤษสำหรับ Small Talk และการทักทายให้ดูสุภาพเป็นธรรมชาติ",
+      "excerpt": "ฝึกทักทาย ตอบกลับ ถามต่อ และปิดบทสนทนาเป็นภาษาอังกฤษแบบสุภาพ พร้อมคำอ่าน คำแปล ตัวอย่าง จุดที่มักใช้ผิด Practice Challenge และ Prompt ฝึกกับ AI",
+      "category": "English Daily",
+      "date": "2026-08-30",
+      "updatedAt": "2026-08-30",
+      "readingTime": "9 นาที",
+      "file": "content/english-daily-small-talk-greetings-2026-08-30.md",
+      "image": "assets/images/articles/english-daily-small-talk-greetings-2026-08-30.webp",
+      "imageAlt": "ผู้เรียนชาวไทยกำลังฝึก Small Talk ภาษาอังกฤษกับเพื่อนร่วมงานในคาเฟ่ทำงานกรุงเทพยามเช้า"
+    },
     {
       "slug": "stay-with-uncertainty-four-steps",
       "title": "ใจร้อนเพราะยังไม่มีคำตอบ: ฝึกอยู่กับความไม่แน่นอนด้วยหลัก รู้–แยก–เลือก–รอ",
