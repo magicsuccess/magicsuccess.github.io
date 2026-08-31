@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-31T10:20:00+07:00",
+  "updatedAt": "2026-08-31T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "ai-spreadsheet-verification-workflow",
+      "title": "ใช้ AI ช่วยตรวจสเปรดชีตโดยไม่หลงตัวเลข: Workflow 6 ขั้นจากต้นทางถึงอนุมัติ",
+      "excerpt": "ใช้ AI ชี้แถวที่ต้องสงสัยโดยไม่ตัดสินแทนคน ด้วย Control Total, Prompt พร้อมใช้, Decision Log และ Quality Gate สำหรับตรวจตารางอย่างตามกลับได้",
+      "category": "AI",
+      "date": "2026-08-31",
+      "updatedAt": "2026-08-31",
+      "readingTime": "8 นาที",
+      "file": "content/ai-spreadsheet-verification-workflow.md",
+      "image": "assets/images/articles/ai-spreadsheet-verification-workflow.webp",
+      "imageAlt": "คนทำงานชาวไทยกำลังเทียบตารางบนแล็ปท็อปกับเอกสารต้นทางและเครื่องคิดเลขก่อนอนุมัติตัวเลข"
+    },
     {
       "slug": "english-daily-cafe-restaurant-2026-08-31",
       "title": "8 วลีภาษาอังกฤษสำหรับสั่งอาหารและเครื่องดื่มในคาเฟ่อย่างสุภาพ",
