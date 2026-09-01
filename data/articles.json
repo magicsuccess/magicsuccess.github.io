@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-08-31T18:30:00+07:00",
+  "updatedAt": "2026-09-01T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "solo-travel-first-trip-safety-plan",
+      "title": "เที่ยวคนเดียวครั้งแรกอย่างไม่ประมาท: แผน 6 จุดก่อนออกจากบ้าน",
+      "excerpt": "เตรียมทริปคนเดียวด้วยแผนหลักและสำรอง การเลือกที่พัก การแพ็กของ ระบบเช็กอิน เกณฑ์หยุดทริป และ Solo Trip Card ที่ใช้ได้จริง",
+      "category": "ท่องเที่ยว",
+      "date": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "readingTime": "8 นาที",
+      "file": "content/solo-travel-first-trip-safety-plan.md",
+      "image": "assets/images/articles/solo-travel-first-trip-safety-plan.webp",
+      "imageAlt": "นักเดินทางหญิงชาวไทยกำลังตรวจโทรศัพท์และแผนที่ข้างกระเป๋าที่สถานีขนส่งในตอนเช้า ก่อนเริ่มทริปคนเดียวอย่างเตรียมพร้อม"
+    },
     {
       "slug": "english-daily-movie-script-scene-writing-2026-09-01",
       "title": "8 วลีภาษาอังกฤษสำหรับเขียนบท ฉาก และอารมณ์ให้วิดีโอ AI มีเรื่องเล่า",
