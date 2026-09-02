@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-02T18:30:00+07:00",
+  "updatedAt": "2026-09-03T07:00:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "english-workplace-microlearning",
+      "title": "ไมโครเลิร์นนิงภาษาอังกฤษในที่ทำงาน: 8 วลีที่ใช้ได้ใน 10 นาที",
+      "excerpt": "ฝึกวลี Business English ระดับ B1–B2 ผ่านสถานการณ์จริง สูตรฝึก 10 นาที แบบทดสอบ และแผนทบทวน 7 วัน",
+      "category": "English Daily",
+      "date": "2026-09-03",
+      "updatedAt": "2026-09-03",
+      "readingTime": "10 นาที",
+      "file": "content/english-workplace-microlearning.md",
+      "image": "assets/images/articles/ai-professional-email-workflow.webp",
+      "imageAlt": "คนทำงานชาวไทยฝึกภาษาอังกฤษจากบทเรียนสั้นบนแล็ปท็อปในสำนักงานโทนน้ำเงินและทอง"
+    },
     {
       "slug": "three-anchors-life-transition",
       "title": "ชีวิตเปลี่ยนจนตั้งตัวไม่ทัน: ใช้ 3 จุดยึดประคองวันโดยไม่บังคับตัวเองให้พร้อม",
