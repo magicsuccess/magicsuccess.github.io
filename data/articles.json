@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-01T18:30:00+07:00",
+  "updatedAt": "2026-09-02T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "three-anchors-life-transition",
+      "title": "ชีวิตเปลี่ยนจนตั้งตัวไม่ทัน: ใช้ 3 จุดยึดประคองวันโดยไม่บังคับตัวเองให้พร้อม",
+      "excerpt": "ตั้งหลักในช่วงย้ายบ้าน เริ่มงานใหม่ หรือเผชิญความเปลี่ยนแปลง ด้วยจุดยึดด้านร่างกาย เวลา และผู้คน พร้อมแบบฟอร์ม 20 นาที ตัวอย่าง และทางกลับมาเมื่อทำไม่ได้",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-09-02",
+      "updatedAt": "2026-09-02",
+      "readingTime": "8 นาที",
+      "file": "content/three-anchors-life-transition.md",
+      "image": "assets/images/articles/three-anchors-life-transition.webp",
+      "imageAlt": "ชายไทยในห้องพักที่กำลังย้ายเข้า จัดแก้วน้ำ สมุด และนาฬิกาเป็นสามจุดยึดเล็ก ๆ เพื่อประคองชีวิตช่วงเปลี่ยนผ่าน"
+    },
     {
       "slug": "english-daily-customer-support-phrases-2026-09-02",
       "title": "8 วลีภาษาอังกฤษสำหรับคุยงานบริการลูกค้าและแก้ปัญหาอย่างสุภาพ",
