@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-03T18:30:00+07:00",
+  "updatedAt": "2026-09-04T06:22:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "chatgpt-image-style-prompt-keywords",
+      "title": "20 คำศัพท์ Prompt สร้างภาพด้วย ChatGPT: ใช้อย่างไรให้ตรงกว่าพิมพ์ /คำเดียว",
+      "excerpt": "ตรวจข้อเท็จจริงจากอินโฟกราฟิกคำสั่งสร้างภาพ พร้อมอธิบาย 20 คำที่มองเห็น สูตร Prompt 7 ส่วน ตัวอย่างพร้อมคัดลอก และ Checklist ก่อนใช้งาน",
+      "category": "AI",
+      "date": "2026-09-04",
+      "updatedAt": "2026-09-04",
+      "readingTime": "10 นาที",
+      "file": "content/chatgpt-image-style-prompt-keywords.md",
+      "image": "assets/images/articles/ai.webp",
+      "imageAlt": "พื้นที่ทำงานสร้างภาพด้วย AI พร้อมแผงตัวอย่างสไตล์และองค์ประกอบภาพ"
+    },
     {
       "slug": "chatgpt-codex-slash-prompt-guide",
       "title": "คำสั่งลัด ChatGPT/Codex ใช้อย่างไรให้ได้ผลจริง พร้อม 10 ตัวอย่าง",
