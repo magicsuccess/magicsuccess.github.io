@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-02T18:30:00+07:00",
+  "updatedAt": "2026-09-03T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "one-page-investment-policy",
+      "title": "เขียนกติกาการลงทุน 1 หน้า: ตัดสินใจก่อนตลาดพาใจไหล",
+      "excerpt": "สร้างกติกาส่วนตัวเรื่องเป้าหมาย เงินที่ใช้ได้ สัดส่วน ซื้อ–ถือ–ทบทวน และเหตุให้เปลี่ยนแผน พร้อมแบบฟอร์มหนึ่งหน้า ตัวอย่าง และข้อควรระวัง",
+      "category": "การลงทุน",
+      "date": "2026-09-03",
+      "updatedAt": "2026-09-03",
+      "readingTime": "8 นาที",
+      "file": "content/one-page-investment-policy.md",
+      "image": "assets/images/articles/one-page-investment-policy.webp",
+      "imageAlt": "นักลงทุนชาวไทยกำลังเขียนกติกาการลงทุนหนึ่งหน้าบนโต๊ะสีน้ำเงิน พร้อมซองเงินสำรอง นาฬิกาทราย และบล็อกไม้แบ่งหน้าที่ของพอร์ต"
+    },
     {
       "slug": "english-daily-asking-for-help-directions-2026-09-03",
       "title": "8 วลีภาษาอังกฤษสำหรับถามทางและขอความช่วยเหลืออย่างสุภาพ",
