@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-04T06:22:00+07:00",
+  "updatedAt": "2026-09-04T07:05:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "facebook-poster-prompts-magic-success-boss-jack",
+      "title": "10 Prompts สร้างโปสเตอร์ Facebook สำหรับ Magic Success Thailand และ BOSS JACK",
+      "excerpt": "รวม Prompt โปสเตอร์ 4:5 จำนวน 10 สไตล์ พร้อม Character Reference, Safe Area, Negative Prompt, สูตรปรับใช้ และ Checklist วางข้อความกับโลโก้อย่างมืออาชีพ",
+      "category": "AI",
+      "date": "2026-09-04",
+      "updatedAt": "2026-09-04",
+      "readingTime": "14 นาที",
+      "file": "content/facebook-poster-prompts-magic-success-boss-jack.md",
+      "image": "assets/images/articles/ai.webp",
+      "imageAlt": "BOSS JACK กับแนวคิดโปสเตอร์ Facebook สีกรมท่าและสีทองสำหรับ Magic Success Thailand"
+    },
     {
       "slug": "chatgpt-image-style-prompt-keywords",
       "title": "20 คำศัพท์ Prompt สร้างภาพด้วย ChatGPT: ใช้อย่างไรให้ตรงกว่าพิมพ์ /คำเดียว",
