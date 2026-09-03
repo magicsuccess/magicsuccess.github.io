@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-03T07:20:00+07:00",
+  "updatedAt": "2026-09-03T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "one-page-investment-policy",
+      "title": "เขียนกติกาการลงทุน 1 หน้า: ตัดสินใจก่อนตลาดพาใจไหล",
+      "excerpt": "สร้างกติกาส่วนตัวเรื่องเป้าหมาย เงินที่ใช้ได้ สัดส่วน ซื้อ–ถือ–ทบทวน และเหตุให้เปลี่ยนแผน พร้อมแบบฟอร์มหนึ่งหน้า ตัวอย่าง และข้อควรระวัง",
+      "category": "การลงทุน",
+      "date": "2026-09-03",
+      "updatedAt": "2026-09-03",
+      "readingTime": "8 นาที",
+      "file": "content/one-page-investment-policy.md",
+      "image": "assets/images/articles/one-page-investment-policy.webp",
+      "imageAlt": "นักลงทุนชาวไทยกำลังเขียนกติกาการลงทุนหนึ่งหน้าบนโต๊ะสีน้ำเงิน พร้อมซองเงินสำรอง นาฬิกาทราย และบล็อกไม้แบ่งหน้าที่ของพอร์ต"
+    },
     {"slug":"english-tense-everyday-work","title":"บทที่ 1: Everyday Work — เล่าเรื่องทั่วไปในที่ทำงานด้วย Past–Present–Future","excerpt":"ฝึกคุยเรื่องเมื่อวาน งานที่กำลังทำ และแผนวันนี้ ผ่านบทสนทนาในสำนักงาน คำศัพท์ แบบฝึก และ AI Role-play","category":"English Daily","date":"2026-09-03","updatedAt":"2026-09-03","readingTime":"4 นาที","file":"content/english-tense-everyday-work.md","image":"assets/images/articles/english-daily-small-talk-greetings.webp","imageAlt":"เพื่อนร่วมงานสองคนสนทนาเรื่องกิจวัตรและแผนงานในสำนักงาน"},
     {"slug":"english-tense-market-shopping","title":"บทที่ 2: Walking through a Market — เดินตลาดและซื้อของด้วย Past–Present–Future","excerpt":"ฝึกถามราคา เล่าของที่ซื้อแล้ว และบอกแผนเดินทาง ผ่านสถานการณ์ตลาด คำศัพท์ แบบฝึก และ AI Role-play","category":"English Daily","date":"2026-09-03","updatedAt":"2026-09-03","readingTime":"4 นาที","file":"content/english-tense-market-shopping.md","image":"assets/images/articles/english-daily-cafe-restaurant-ordering.webp","imageAlt":"ผู้เรียนชาวไทยฝึกถามราคาและเลือกซื้อของในตลาด"},
     {"slug":"english-tense-hotel-checkin","title":"บทที่ 3: Hotel Check-in — เข้าที่พักและแก้ปัญหาการจองด้วย Past–Present–Future","excerpt":"ฝึกยืนยันการจอง อธิบายสิ่งที่เกิดขึ้น และตกลงขั้นตอนถัดไปกับพนักงานที่พักอย่างสุภาพ","category":"English Daily","date":"2026-09-03","updatedAt":"2026-09-03","readingTime":"4 นาที","file":"content/english-tense-hotel-checkin.md","image":"assets/images/articles/solo-travel-first-trip-safety-plan.webp","imageAlt":"นักเดินทางชาวไทยกำลังเช็กอินและยืนยันการจองกับพนักงานที่พัก"},
