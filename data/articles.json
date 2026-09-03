@@ -12,6 +12,18 @@
   ],
   "items": [
     {
+      "slug": "chatgpt-codex-slash-prompt-guide",
+      "title": "คำสั่งลัด ChatGPT/Codex ใช้อย่างไรให้ได้ผลจริง พร้อม 10 ตัวอย่าง",
+      "excerpt": "แยก Prompt label ออกจากเมนูจริง พร้อมสูตร Prompt 5 ส่วน ตัวอย่าง /brief /human /translate /viral /code /debug และ Checklist ก่อนใช้งาน",
+      "category": "AI",
+      "date": "2026-09-03",
+      "updatedAt": "2026-09-03",
+      "readingTime": "9 นาที",
+      "file": "content/chatgpt-codex-slash-prompt-guide.md",
+      "image": "assets/images/articles/ai-task-brief-before-starting.webp",
+      "imageAlt": "ผู้ใช้กำลังวางโครงสร้างพรอมป์บนหน้าจอก่อนสั่งงาน ChatGPT และ Codex"
+    },
+    {
       "slug": "one-page-investment-policy",
       "title": "เขียนกติกาการลงทุน 1 หน้า: ตัดสินใจก่อนตลาดพาใจไหล",
       "excerpt": "สร้างกติกาส่วนตัวเรื่องเป้าหมาย เงินที่ใช้ได้ สัดส่วน ซื้อ–ถือ–ทบทวน และเหตุให้เปลี่ยนแผน พร้อมแบบฟอร์มหนึ่งหน้า ตัวอย่าง และข้อควรระวัง",
