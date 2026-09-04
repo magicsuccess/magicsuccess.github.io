@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-04T10:20:00+07:00",
+  "updatedAt": "2026-09-04T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "gold-proof-of-purchase-checklist",
+      "title": "เช็กทองก่อนรับของ: 7 หลักฐานที่ช่วยให้ซื้อ ขาย และส่งต่อได้ง่ายขึ้น",
+      "excerpt": "ตรวจชนิด น้ำหนัก ความบริสุทธิ์ ผู้ขาย ค่าใช้จ่าย เงื่อนไขรับซื้อคืน และภาพหลักฐาน พร้อม Gold Evidence Card สำหรับจัดเก็บอย่างเป็นระบบ",
+      "category": "ทองคำ",
+      "date": "2026-09-04",
+      "updatedAt": "2026-09-04",
+      "readingTime": "8 นาที",
+      "file": "content/gold-proof-of-purchase-checklist.md",
+      "image": "assets/images/articles/gold-proof-of-purchase-checklist.webp",
+      "imageAlt": "ทองคำแท่งในซีลวางคู่เครื่องชั่ง แว่นขยาย ใบรับสินค้า และซองเก็บหลักฐานบนโต๊ะสีน้ำเงินเข้ม พร้อมโลโก้ Magic Success Thailand มุมขวาล่าง"
+    },
     {
       "slug": "english-daily-ai-text-prompting-2026-09-04",
       "title": "8 วลีภาษาอังกฤษสำหรับเขียน Prompt ให้ AI ตอบชัดและใช้งานได้จริง",
