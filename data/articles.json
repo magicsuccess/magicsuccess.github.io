@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-04T10:20:00+07:00",
+  "updatedAt": "2026-09-04T19:10:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "gpt-6-astra-openai-computer-use",
+      "title": "GPT-6 Astra คืออะไร: เร็วขึ้นแค่ไหน และคลิกเว็บไซต์แทนเราได้จริงหรือไม่",
+      "excerpt": "ตรวจข้อเท็จจริง GPT-6 Astra จาก OpenAI: ที่มาของความเร็ว 1.9 เท่า ความสามารถ computer use งานที่ช่วย Magic Success ได้ ราคา ข้อจำกัด และแผนทดลองใช้งาน",
+      "category": "AI",
+      "date": "2026-09-04",
+      "updatedAt": "2026-09-04",
+      "readingTime": "9 นาที",
+      "file": "content/gpt-6-astra-openai-computer-use.md",
+      "image": "assets/images/articles/ai.webp",
+      "imageAlt": "ผู้ช่วย AI กำลังทำงานวิจัย ตรวจเว็บไซต์ และประสานงานหลายขั้นบนคอมพิวเตอร์"
+    },
     {
       "slug": "english-daily-ai-text-prompting-2026-09-04",
       "title": "8 วลีภาษาอังกฤษสำหรับเขียน Prompt ให้ AI ตอบชัดและใช้งานได้จริง",
