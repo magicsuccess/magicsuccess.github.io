@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-05T10:20:00+07:00",
+  "updatedAt": "2026-09-05T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "mindful-waiting-five-minute-pause",
+      "title": "เปลี่ยนเวลารอให้เป็นที่พักใจ: ฝึกสติ 5 นาทีโดยไม่กดอารมณ์",
+      "excerpt": "เปลี่ยนช่วงรอคิวหรือก่อนประชุมให้เป็นที่พักสั้น ๆ ด้วยหลัก วาง–รู้–คลาย–เลือก พร้อมตัวอย่าง ข้อจำกัด ข้อควรระวัง และแบบฝึก 60 วินาทีที่เริ่มได้วันนี้",
+      "category": "ธรรมะ",
+      "date": "2026-09-05",
+      "updatedAt": "2026-09-05",
+      "readingTime": "7 นาที",
+      "file": "content/mindful-waiting-five-minute-pause.md",
+      "image": "assets/images/articles/mindful-waiting-five-minute-pause.webp",
+      "imageAlt": "ชายไทยนั่งรออย่างผ่อนคลายในพื้นที่บริการ วางโทรศัพท์คว่ำไว้ข้างตัวและสังเกตสิ่งรอบตัว พร้อมโลโก้ Magic Success Thailand มุมขวาล่าง"
+    },
     {
       "slug": "english-daily-portrait-fashion-prompts-2026-09-05",
       "title": "8 วลีภาษาอังกฤษสำหรับ Prompt ภาพ Portrait และ Fashion ให้คุมลุคได้ชัดขึ้น",
