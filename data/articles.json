@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-05T18:30:00+07:00",
+  "updatedAt": "2026-09-06T10:20:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "english-daily-nature-landscape-prompts-2026-09-06",
+      "title": "8 วลีภาษาอังกฤษสำหรับ Prompt ภาพ Nature และ Landscape ให้ภาพธรรมชาติดูมีชีวิต",
+      "excerpt": "ฝึกเขียน Prompt ภาษาอังกฤษสำหรับภาพธรรมชาติและวิวกว้าง พร้อมคำอ่าน คำแปล ตัวอย่าง จุดที่มักใช้ผิด Practice Challenge และ Prompt ฝึกกับ AI",
+      "category": "English Daily",
+      "date": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "readingTime": "9 นาที",
+      "file": "content/english-daily-nature-landscape-prompts-2026-09-06.md",
+      "image": "assets/images/articles/english-daily-nature-landscape-prompts-2026-09-06.webp",
+      "imageAlt": "ผู้เรียนชาวไทยกำลังฝึกเขียน Prompt ภาษาอังกฤษสำหรับภาพธรรมชาติและวิวภูเขาบนแล็ปท็อป พร้อมสมุดสเก็ตช์ทิวทัศน์และโลโก้ Magic Success Thailand มุมขวาล่าง"
+    },
     {
       "slug": "mindful-waiting-five-minute-pause",
       "title": "เปลี่ยนเวลารอให้เป็นที่พักใจ: ฝึกสติ 5 นาทีโดยไม่กดอารมณ์",
