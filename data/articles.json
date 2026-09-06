@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-06T10:20:00+07:00",
+  "updatedAt": "2026-09-06T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "no-buy-day-24-hour-experiment",
+      "title": "วันไม่ซื้อของ 24 ชั่วโมง: แบบทดลองแยกความอยากจากความจำเป็นโดยไม่ลงโทษตัวเอง",
+      "excerpt": "ทดลองพักรายจ่ายที่เลื่อนได้หนึ่งวันด้วยกติกาสามช่อง บัตรพักการตัดสินใจ และตัวอย่างจริง เพื่อเห็นความต้องการโดยไม่ตัดของจำเป็นหรือกล่าวโทษตัวเอง",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "readingTime": "8 นาที",
+      "file": "content/no-buy-day-24-hour-experiment.md",
+      "image": "assets/images/articles/no-buy-day-24-hour-experiment.webp",
+      "imageAlt": "หญิงชาวไทยหยุดคิดก่อนซื้อของออนไลน์ที่โต๊ะในบ้าน มีขวดน้ำ สมุด และตะกร้าเปล่า พร้อมโลโก้ Magic Success Thailand ที่มุมขวาล่าง"
+    },
     {
       "slug": "english-daily-nature-landscape-prompts-2026-09-06",
       "title": "8 วลีภาษาอังกฤษสำหรับ Prompt ภาพ Nature และ Landscape ให้ภาพธรรมชาติดูมีชีวิต",
