@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-06T18:30:00+07:00",
+  "updatedAt": "2026-09-07T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "ai-decision-log-traceable-workflow",
+      "title": "ทำสมุดบันทึกงาน AI: ตามรอยคำตอบ แก้ง่าย และรู้ว่าใครอนุมัติ",
+      "excerpt": "สร้าง AI Decision Log แบบเบา ๆ เพื่อเก็บโจทย์ แหล่งข้อมูล รุ่นคำตอบ การแก้ไข และจุดอนุมัติ พร้อมตัวอย่างงานจริง ข้อจำกัด และแบบฟอร์มเริ่มได้วันนี้",
+      "category": "AI",
+      "date": "2026-09-07",
+      "updatedAt": "2026-09-07",
+      "readingTime": "8 นาที",
+      "file": "content/ai-decision-log-traceable-workflow.md",
+      "image": "assets/images/articles/ai-decision-log-traceable-workflow.webp",
+      "imageAlt": "เจ้าของธุรกิจชาวไทยกำลังตรวจเส้นทางงาน AI จากเอกสารต้นทาง ผ่านขั้นตอนตรวจสอบ ไปยังจุดอนุมัติบนโต๊ะทำงาน พร้อมโลโก้ Magic Success Thailand มุมขวาล่าง"
+    },
     {
       "slug": "english-daily-workplace-status-updates-2026-09-07",
       "title": "8 วลีภาษาอังกฤษสำหรับอัปเดตงานให้ชัด สุภาพ และมืออาชีพ",
