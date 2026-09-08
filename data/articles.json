@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-08T10:20:00+07:00",
+  "updatedAt": "2026-09-08T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "travel-plan-b-rain-delay",
+      "title": "ทริปสะดุดก็เที่ยวต่อได้: ออกแบบ Plan B รับฝน รถล่าช้า และสถานที่ปิด",
+      "excerpt": "ออกแบบ Plan B สำหรับทริปด้วยเป้าหมายหลัก Trigger ที่ชัด ตัวเลือกคู่ตรงข้าม และ Buffer สามชนิด พร้อมตัวอย่าง ข้อควรระวัง และการ์ดเริ่มทำได้วันนี้",
+      "category": "ท่องเที่ยว",
+      "date": "2026-09-08",
+      "updatedAt": "2026-09-08",
+      "readingTime": "8 นาที",
+      "file": "content/travel-plan-b-rain-delay.md",
+      "image": "assets/images/articles/travel-plan-b-rain-delay.webp",
+      "imageAlt": "นักเดินทางหญิงชาวไทยนั่งใต้ศาลาระหว่างฝนตก กำลังเทียบแผนที่กับโทรศัพท์ โดยมีพิพิธภัณฑ์และป้ายรถโดยสารเป็นตัวเลือกสำรอง พร้อมโลโก้ Magic Success Thailand มุมขวาล่าง"
+    },
     {
       "slug": "english-daily-multi-panel-storyboard-prompts-2026-09-08",
       "title": "8 วลีอังกฤษสำหรับเขียน Prompt ภาพหลายช่องให้ AI เข้าใจง่าย",
