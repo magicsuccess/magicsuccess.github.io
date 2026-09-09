@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-09T10:20:00+07:00",
+  "updatedAt": "2026-09-09T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "receive-feedback-without-losing-yourself",
+      "title": "รับคำติชมโดยไม่เสียศูนย์: แยกข้อมูลออกจากคำตัดสินตัวเองด้วยวิธี 4 ช่อง",
+      "excerpt": "ฝึกรับคำติชมด้วยวิธีหยุด–แยก–ถาม–เลือก เปลี่ยนคำพูดกว้างให้เป็นรายการแก้ที่ทำได้ พร้อมการ์ดใช้งาน ตัวอย่างจริง ข้อควรระวัง และแผนฝึก 7 วัน",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-09-09",
+      "updatedAt": "2026-09-09",
+      "readingTime": "8 นาที",
+      "file": "content/receive-feedback-without-losing-yourself.md",
+      "image": "assets/images/articles/receive-feedback-without-losing-yourself.webp",
+      "imageAlt": "คนทำงานชาวไทยสองคนสนทนาเรื่องคำติชมอย่างสงบ คนหนึ่งจดประเด็นลงสมุดในห้องทำงานแสงอุ่น พร้อมโลโก้ Magic Success Thailand มุมขวาล่าง"
+    },
     {
       "slug": "english-daily-ai-video-generation-prompts-2026-09-09",
       "title": "8 วลีภาษาอังกฤษสำหรับเขียน Prompt วิดีโอ AI ให้ภาพเคลื่อนไหวชัดและเล่าเรื่องได้",
