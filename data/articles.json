@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-09T18:30:00+07:00",
+  "updatedAt": "2026-09-10T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "read-fund-fact-sheet-before-investing",
+      "title": "อ่าน Fund Fact Sheet ให้เป็น: 7 ช่องที่ต้องเช็กก่อนเลือกกองทุนรวม",
+      "excerpt": "อ่าน Fund Fact Sheet เป็นลำดับจากนโยบาย ความเสี่ยง ดัชนี ค่าธรรมเนียม ผลตอบแทน สภาพคล่อง ถึงผู้ดูแล พร้อมตารางเทียบ ตัวอย่าง ข้อควรระวัง และก้าวแรกวันนี้",
+      "category": "การลงทุน",
+      "date": "2026-09-10",
+      "updatedAt": "2026-09-10",
+      "readingTime": "8 นาที",
+      "file": "content/read-fund-fact-sheet-before-investing.md",
+      "image": "assets/images/articles/read-fund-fact-sheet-before-investing.webp",
+      "imageAlt": "นักลงทุนชาวไทยใช้แว่นขยายตรวจเอกสารข้อมูลกองทุนบนโต๊ะทำงานที่มีแล็ปท็อปและเครื่องคิดเลข พร้อมโลโก้ Magic Success Thailand มุมขวาล่าง"
+    },
     {
       "slug": "receive-feedback-without-losing-yourself",
       "title": "รับคำติชมโดยไม่เสียศูนย์: แยกข้อมูลออกจากคำตัดสินตัวเองด้วยวิธี 4 ช่อง",
