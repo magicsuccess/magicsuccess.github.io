@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-10T18:30:00+07:00",
+  "updatedAt": "2026-09-12T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "saturday-evening-self-review",
+      "title": "ทบทวนใจเย็นวันเสาร์: แบบฝึก 20 นาทีเพื่อพักจากสัปดาห์โดยไม่ตัดสินตัวเอง",
+      "excerpt": "ปิดสัปดาห์ด้วยแบบฝึก เห็น–รับ–วาง–เลือก ใช้เวลา 20 นาทีเพื่อแยกข้อเท็จจริง ความรู้สึก บทเรียน และก้าวแรกพรุ่งนี้ โดยไม่ลงโทษตัวเอง",
+      "category": "ธรรมะ",
+      "date": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "readingTime": "7 นาที",
+      "file": "content/saturday-evening-self-review.md",
+      "image": "assets/images/articles/saturday-evening-self-review.webp",
+      "imageAlt": "หญิงไทยนั่งทบทวนสัปดาห์อย่างสงบที่โต๊ะทำงานในบ้านยามเย็น มือหนึ่งแตะอก อีกมือวางใกล้สมุด พร้อมโลโก้ Magic Success Thailand มุมขวาล่าง"
+    },
     {
       "slug": "read-fund-fact-sheet-before-investing",
       "title": "อ่าน Fund Fact Sheet ให้เป็น: 7 ช่องที่ต้องเช็กก่อนเลือกกองทุนรวม",
