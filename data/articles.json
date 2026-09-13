@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-13T10:20:00+07:00",
+  "updatedAt": "2026-09-13T18:30:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "difficult-conversation-fifteen-minute-reset",
+      "title": "คุยเรื่องยากโดยไม่ทำร้ายกัน: โครงสนทนา 15 นาทีเพื่อกลับมาเข้าใจกัน",
+      "excerpt": "เตรียมและคุยเรื่องค้างใจด้วยโครง 15 นาที ตั้งแต่ขอเวลา เล่าข้อเท็จจริง ฟังกลับ ไปจนถึงการทดลอง 7 วัน พร้อมสถานการณ์จริง การ์ดใช้งาน และข้อควรระวัง",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-09-13",
+      "updatedAt": "2026-09-13",
+      "readingTime": "8 นาที",
+      "file": "content/difficult-conversation-fifteen-minute-reset.md",
+      "image": "assets/images/articles/difficult-conversation-fifteen-minute-reset.webp",
+      "imageAlt": "ผู้ใหญ่ชาวไทยสองคนนั่งสนทนาและฟังกันอย่างสงบที่โต๊ะในบ้าน มีสมุดเปล่าและแก้วน้ำ พร้อมโลโก้ Magic Success Thailand มุมขวาล่าง"
+    },
     {
       "slug": "english-daily-hotel-check-in-phrases-2026-09-13",
       "title": "8 วลีภาษาอังกฤษสำหรับเช็กอินโรงแรมและขอความช่วยเหลืออย่างสุภาพ",
