@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-14T10:20:00+07:00",
+  "updatedAt": "2026-09-14T18:12:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -11,6 +11,18 @@
     "English Daily"
   ],
   "items": [
+    {
+      "slug": "ai-helps-create-time-for-life",
+      "title": "AI ช่วยให้เรามีเวลาใช้ชีวิตมากขึ้นได้อย่างไร",
+      "excerpt": "AI ไม่ได้มอบเวลาว่างทั้งวัน แต่ช่วยย้ายงานจากหน้าจอว่างเป็นหน้าร่าง ถ้าเราตรวจเองและจองนาทีที่ได้คืนให้ชีวิต",
+      "category": "AI",
+      "date": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "readingTime": "7 นาที",
+      "file": "content/ai-helps-create-time-for-life.md",
+      "image": "assets/images/articles/ai-helps-create-time-for-life.webp",
+      "imageAlt": "หญิงไทยยืนกาแฟที่หน้าต่างครัวยามเช้า แล็ปท็อปปิดอยู่บนเคาน์เตอร์ บรรยากาศสงบอบอุ่น"
+    },
     {
       "slug": "english-daily-asking-for-help-directions-2026-09-14",
       "title": "8 วลีภาษาอังกฤษสำหรับถามทางและขอความช่วยเหลือแบบสุภาพ",
