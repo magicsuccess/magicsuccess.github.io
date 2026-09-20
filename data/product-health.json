@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-19T04:51:12.075Z",
+  "checkedAt": "2026-09-20T05:07:52.126Z",
   "advisoryOnly": true,
   "note": "ผลตรวจอัตโนมัติใช้แจ้งเตือนเท่านั้น ไม่ถอดสินค้าอัตโนมัติ เพราะ marketplace อาจป้องกัน bot",
   "summary": {
@@ -14,7 +14,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/1664929262/47860804481?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAxZXyrcuAMAx97u4RPIpUva3yKVtJHDsdCbxEm_0hmBHJ7l4wC1FKop42LBVKceLmylZpBj9EruwsSWHepLi90PgrxmgZH04nMQ-jSrvlO1ipTyOjqKOQddVLMhUFt2orrO8KXi1VviI5ihKS7YvG_hy9BzS-sqxRvtC4nGnQiGi3LDAWfmnIWYbwJ4d2ssM8wIHIj_&mmp_pid=an_15378290370&uls_trackid=56m0052a01k6&utm_campaign=id_7N8pPLeLjhF&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdjfp89b6w"
+        "finalUrl": "https://shopee.co.th/opaanlp/1664929262/47860804481?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAz8TKgf7R5IwuA9ch8h55E47VW_t9GsoJTV_csRWAHYGb6x1pnpXfkUEhtXkXxpvaNeHUtr3XOiiZVR7xUEnGSXOnrt-WfNxZoqc-0vIUn9rcz4GoNBLaa7oh8wPb6MMSR4IDPzX5g2YvtlQ7_AR5Cg5E0uTEorTGpqr3L87Ra9yN6u_Z8j04u6u4Jhsr3ipbBsmmln&mmp_pid=an_15378290370&uls_trackid=56m8ascp00lc&utm_campaign=id_7N8pPLeLjhF&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjwetzib5xj1"
       },
       "image": {
         "ok": true,
@@ -27,7 +27,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/1029519716/46651233823?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAyM-s5QkU52pKFj4mjT3cL4hz0tTkNfUcxCjhoD3FP36jPDdUqFqLfZEQckblr27X8qXNmlYV7ahWO-l2xon1Rju-w1UHY9U150c7mpe_UCZrpbY93T3gVioa-0iywDZLG6X6MqEqWLZiEsERZ4CzTc8GBPIlnwDwvQWEtKCML8f_yeL2yRvseC5SEHsGJot4F3amYU&mmp_pid=an_15378290370&uls_trackid=56m0058n00ql&utm_campaign=id_50y5n4QGDqv&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdjmbkrekg"
+        "finalUrl": "https://shopee.co.th/opaanlp/1029519716/46651233823?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAzUgn7l4z8yBf1ZjMxS-_JjDl5pz-bdmvq760U7QDup0I4M7XIJKTiPdaXVDbRELxD9i3XQD_P0YbYBIT5lQRY7CsCBEnwjfz0b1vGJfFffWVLDaFE88Gu1KLK0UZZDkwOddzSoanUg_w746qtPnu5thZYWeNxgTKvteP3O0xKJXE4Yp0kwF0bJZ6E4gQuxlElRfpHg&mmp_pid=an_15378290370&uls_trackid=56m8asio01j8&utm_campaign=id_50y5n4QGDqv&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweu5raj1mr"
       },
       "image": {
         "ok": true,
@@ -40,7 +40,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/750836204/27506587805?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAwrP4B3O07WPMW7wM6_WA7o_gNHHTQx2SMUpkywa7VEd30dQ2JU9cdcBmh3NNyIWStfQigX3_kX4FJVgwGoidv7gvjwtK4waOoQw1AZ9X8IEOwg5lAx86U5n-W_yPl2pkod5d4BUYEFdWNcpCfg5xpgBz9cp19SCD08IXJWGMnAdvMh_nNAnZnVXCfTKm7N1R05mQ&mmp_pid=an_15378290370&uls_trackid=56m005dj01lc&utm_campaign=id_84BkMDvn4cv&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdjqjm2mdh"
+        "finalUrl": "https://shopee.co.th/opaanlp/750836204/27506587805?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAz9nhETmmXFTuxECay-NcfQTbqZKy1Q4jJ24N-YPBBYs0v40v0hDdRv-UlyTaDQipCYOa3Z-1szfJ0JMf38ELBvMo2aT5Q96zxqsnPXs0q_CG9MKZoqcJc62tusVD8aH33I-_jzXmL0asBSkiDfyPcSPvfh0E_jy7MBvDNsCojrPfcVWxBQKdPAPqgtAcEOlPiPgA&mmp_pid=an_15378290370&uls_trackid=56m8askl03ql&utm_campaign=id_84BkMDvn4cv&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweu7e8hscj"
       },
       "image": {
         "ok": true,
@@ -53,7 +53,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/1784451319/47816347992?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAzK5PFm1sdak4R3sXpHdmCeJwF29DzqfGeoujCzcOucI6ymPFrMJPs8GOtLsNJu2WM8jeSslTMBIEE7dQ7zD8O8EqN6um15JuN4NxfLpwwen0uFBvT4190q3DbE-XuegpoLqye8HhI5kEVYCjtQHjK1p-nFACeZbqwk_tSb1mHMMYO6GTSCjsgEhZNZmMJw07XrwC8V&mmp_pid=an_15378290370&uls_trackid=56m005fu02ql&utm_campaign=id_A0iQ2RumL1p&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdjsknsbew"
+        "finalUrl": "https://shopee.co.th/opaanlp/1784451319/47816347992?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAz7ki7qa-UACAFQW7JFKBNNwxF3zNzzHoUYjIjdSSFH2eOo_zBisQ23xnDPcN4KkW-J7ySoFoaenemz-UYmHDU0hyMvc3x1hnfvOPBP-5dZwzBVMs3fqQRwiB7x7wQQ0ExZGzej9A9ZO5utBjBekK4R2xpDXJ0cKtHGvkbIN4sbeZc_yVTusDqNEX8H7LIRsDqkx5_U&mmp_pid=an_15378290370&uls_trackid=56m8asov01l9&utm_campaign=id_A0iQ2RumL1p&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweub5wbq4c"
       },
       "image": {
         "ok": true,
@@ -66,7 +66,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/1760248897/51360784660?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAzI4vExYpC1FOC29vpVpL5PH6vNwW1sUqG387FLlsGuG70HCjnXU2y9ypeljXGhjqcCmMBeK9DeXysrikbtNK9AU9bCxtpmzxgXwivylZBfOZfRxllb8fiz9hMZSEwtQLiiGzBAST5Y2doOCRyKr1nCl3WdkYRsjwRrNNQrJUjCGNSHMoItRogHi9t5w17-bHTBx_BO&mmp_pid=an_15378290370&uls_trackid=56m005if01k6&utm_campaign=id_AKgO4ilOi7J&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdjusbx224"
+        "finalUrl": "https://shopee.co.th/opaanlp/1760248897/51360784660?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAza6DzgY8RB23sGTMSBOaXlqGABwSiP9P7fu7Pz5wadYVceQ6a4ylSd_ggOpyYCFMyQnAN1fmqrTKU_ecC-_eO10tlgYlDswBqS7SPWOL6ADsXZ2Een5uDor3UN_4bYOVexzPY6fTw8aEBi837L7ceMTpoUm4rxcEF1pWDS9DN4I__d4QHYQKbfVMlC8MB85qqWCNIo&mmp_pid=an_15378290370&uls_trackid=56m8asqt00jr&utm_campaign=id_AKgO4ilOi7J&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweucte79mq"
       },
       "image": {
         "ok": true,
@@ -79,7 +79,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/1823740884/52265923725?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAxR1Iqo4bMXfiuRBjd4BYnDgWdDulRenueRPD7W8LneM3fJUw9V6EpD_hJNbnhXwrJ4o_KdhbcopICpHgBFntxd-b4q40XlS8apTjswjloQGGryBoNJtvXqu4csjth7vJyUrEc5BeCIFRRkF3M1LjBHcskC-jmp_bL_X0HF3QAKDFog6JTYqz7Tt0N-d1XGSIVQcuN3&mmp_pid=an_15378290370&uls_trackid=56m005ku01jr&utm_campaign=id_3XlniCFdaWT&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdjwwsr5eg"
+        "finalUrl": "https://shopee.co.th/opaanlp/1823740884/52265923725?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAzzIJnnMPAoBUdDI1A04SH7P9Dm5hh4d6ImplUq8WEtmBZA1iPdeh3K6UHOiWmeZNO0Q31RXSDH-pDih0N06Z-ZwL6gpw9GqTiu2D5-1yZ_17zafjuuHIJv_72Dlb9R9bTdQS5sWFOBBE3R64_LqCztg_iqeXxUKmzeI24aFpkcZsmbtP22dzgCRw5JST0rxmPsM4Rq&mmp_pid=an_15378290370&uls_trackid=56m8asug01j8&utm_campaign=id_3XlniCFdaWT&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweufxx65vw"
       },
       "image": {
         "ok": true,
@@ -92,7 +92,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/84635067/53153061664?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAxNtz8GzB3gcOMjOLdpmHjOGufP1Fq6T-2xmwNwNvYmEvcgm8dOMyV5VoBRcI3T8zC1RAPq7V62ZJ5zm2k_UfEuXD48JxVol2fp-9rXGWAxgllzpOTz1nVCwdzfRVJYcN55Sbo7lmHqoSJu8TJRBQjlSK_sFT_UDU7DwxNKdUMVTGv_bsGO0tgH_PS_WilHT4Q&mmp_pid=an_15378290370&uls_trackid=56m005nb00k6&utm_campaign=id_2FCEdcIJJWH&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdjz1mnpc7"
+        "finalUrl": "https://shopee.co.th/opaanlp/84635067/53153061664?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAyLQdaEhXrmMRIz_-HNDFqriHqM6cAFvtA0aJD_1hfp-2Jf2mwM9rI7cqDbgxaLVXpKIr6faEQVmp3rUKSFa1EEYx6iD7b83tWC-FAjNVkn4w-VLiELoYIbJMkCwqIyBVll1HoPw1i4RmRL3FnXYP8JbkEp1y1hHbNOjtboJmnQOqBqTXO5xTR73AwrZgI2-X0&mmp_pid=an_15378290370&uls_trackid=56m8at0p00ql&utm_campaign=id_2FCEdcIJJWH&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweuhp78dng"
       },
       "image": {
         "ok": true,
@@ -105,7 +105,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/52941226/48356913056?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAxq2J4XkV7y2mZ8g3cvuFbrnWJ6LZ1c7QSgp9Krn4xkCshSvV4VUkt3SNRXVIrJJ_qy6M-xA-aKIKeMI2ZvF6lMj_smx2oW_vZhMDFYxPKzSbJy0Pk3jqZUXn2hExRW6g3Bmga6UhY1jZ0zZPpx-yf0zs4wZtVPLZtvHNlyMiuHtttQTfZrPEsbm-Lb6MqWfd0&mmp_pid=an_15378290370&uls_trackid=56m005pn00l9&utm_campaign=id_9o6PgHnEZ8j&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdk24buxz3"
+        "finalUrl": "https://shopee.co.th/opaanlp/52941226/48356913056?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAyu3fpkmgz5B5ldPhcleIlepODuUL_LLnYYHTqeTn8eHEiU2XaRx6x8zc8Ld9u2TtNcPuRHEmvkRnoISjgrqPCGNzslu0qDGuTuQE0xO4ajRLvtzQS9FzTO6YQmyRLh7GChoV5Sp6TnQQZPsvm8rl_9tXd64O6QjtuOFh-58ZiMjwFK1Lbf98NxT10FaSfT4-o&mmp_pid=an_15378290370&uls_trackid=56m8at2p00k6&utm_campaign=id_9o6PgHnEZ8j&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweujohb7io"
       },
       "image": {
         "ok": true,
@@ -118,7 +118,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/301015736/50961720943?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAw9LCbksf2QMGihWNfwl5C8qc6LNVE-oi7-oVljO8BoAGv0J6WgUNiCHW9zk0ZfQKIjcBzukCZMEe2PNplwGp0_DFFvs6DV1Nx81z2lHbLp9Asmc3tx1ZDBaDHdr7UxakWenauJAw-RdoRYFmFKg8SQ-QVeSPfXbNxGrI7pmPqZYdpRI1TSFBAXhVhskaJR8U8wnQ&mmp_pid=an_15378290370&uls_trackid=56m005s400lc&utm_campaign=id_3HutrUrhRxx&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdk46rnby1"
+        "finalUrl": "https://shopee.co.th/opaanlp/301015736/50961720943?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAxAaLihLfJQ4EzfJY7EQdxru3SffYiqSZZ1xaiyNVO0bMdiRjGCJU8dBtYJD3HMiyGzdAtKm1gvFEsWAku6hxgn2Nj_qTnC_DBaJVQfjIqnZvHUuEvefMb_1H1J7Uik85Vfxey8nxcWj64gMLCAs9XUm8_Od468qko1w0ytD9Rvk8e8NDsWrMIsUHIwhdrPVBx9-g&mmp_pid=an_15378290370&uls_trackid=56m8at4r00l9&utm_campaign=id_3HutrUrhRxx&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweumfki7vp"
       },
       "image": {
         "ok": true,
@@ -131,7 +131,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/5126785/54001041723?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEkgAAAAwdnttjqkfj9idbmcyOOQkVjEOUhgFCR6bWiavPsYzAw5KzIjMJQRaFIdKcFLlm3XIKoyWePsoGTqN8ZBmh4SLqlMlZ0VFN4-W89vHWOb5UhxWTpUJccnsG29-5GhsBt_YPDxqt6o0Tvloq6TtOCs0ugny3YxiAgqK6aK-ltM1ZqVGMFzpsWPpX4FPPfMyy&mmp_pid=an_15378290370&uls_trackid=56m005ug01ql&utm_campaign=id_9XE27qxPSCv&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdk69ak2go"
+        "finalUrl": "https://shopee.co.th/opaanlp/5126785/54001041723?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEkgAAAAxrCjuL9XwylkJrmGq-QNLLXnzVL4fkqiIyob5Z0BDgXAJTxgamplXbNjFPNCqGcOZCTV35spK_vylAmjv3wZJRRD3ph6t8HDQfHXjs1av49lnUnqD0a4XFU5WR5Wyf8uCatJStnuQLR8szY6fwoFZSOiImCMRK3LznzwToHQS40Xzm9f23sHQzEYZQoX9x&mmp_pid=an_15378290370&uls_trackid=56m8at6s02l9&utm_campaign=id_9XE27qxPSCv&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweuo8brtum"
       },
       "image": {
         "ok": true,
@@ -144,7 +144,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/12480703/41332120635?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAw456q48OTr1cLq94EA3NO8WEs68SUSpQ7YfaRyVaeyigtmfcrmhBXWB6Dkpm2udKahQJbWxyI8UpENXd-3xqlI5HWt6MTh5rQWgLvmxMaa2XEJYJxCyvvpcSzKH5O9Jmsrd-tt4WNbxKvWQvTI63rlWbgOExR56SVZkYBw7ksXyOwzjFl490xgWWTNYJ0c3xo&mmp_pid=an_15378290370&uls_trackid=56m0060s01lc&utm_campaign=id_1imL9drQqZF&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdk8btipvj"
+        "finalUrl": "https://shopee.co.th/opaanlp/12480703/41332120635?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAz7v7-doa8zvYjPndHqbLbBngjRkVgJWTHQuJNnnBIJMFY1dFF01CXu2FNcokLs9vYs5DT6XByUdOSB4j-1lJNq0maedSDnvkvGegh3ApzMBT3tPMpt1Y-L8WT0ya5XxXVyH3ojRV37WPsPR7qvDw8R_E8pzKrlhGSsFgIFJfb4mvBCeIobpvlhckJSjaIut7E&mmp_pid=an_15378290370&uls_trackid=56m8at8n00l9&utm_campaign=id_1imL9drQqZF&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweuptsk8sq"
       },
       "image": {
         "ok": true,
@@ -157,7 +157,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/1578549642/29244144386?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAzjH-COjDX0UkDe9xEAHE9vlC9PMU13NHfbfQUive5aBKS72rOb19DV0ZMceI0IRQvEaVCqPbe_03cN8P9inFU_UuNm-8fi1n3IFOEDjBF8t9ne9aPR59a7y-ybY54LGDznDfhJlRFAWCl7ujs8QWd5Qjs_vzLhIuftHMvPvNSjDt6k2aXTFVDONHv4myRkbttR0_tJ&mmp_pid=an_15378290370&uls_trackid=56m0063800ql&utm_campaign=id_3DX4WUYIrGr&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdkacycvp7"
+        "finalUrl": "https://shopee.co.th/opaanlp/1578549642/29244144386?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAwXDld_L6ngmGieALXKIT7QFJadCgYV5aWedDzBnhFn-mU-iUgDnA43GqoJusjRIUMb6ls5BnaAN099k2XRmT52MdxaU2On2mNOnVHjzJwI5XfTrjX3CGFBmA-t8O1mqAMB2R4iF5P67_PVwtZPMDdqq2-Taf6OWaXzQx2tNb12wDDZSB0J6QGku9vH7CJHqn8F_eDK&mmp_pid=an_15378290370&uls_trackid=56m8atak00ql&utm_campaign=id_3DX4WUYIrGr&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweurh45mx4"
       },
       "image": {
         "ok": true,
@@ -170,7 +170,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/290731308/42731673912?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAyiBeXx2RGPlyL70kqdC43gWgM7kTL8E2Nlzi4q7MDRGFm7lCVAzUQuZrM9xA4kgJy4UvqFcTP5FCH9TXi7-rW28zOrbOQYkaWoSDGDUbOuR5a5ZS9pWnlJ1XhtpH7DIV8p3lrQK9bNR4S0v5Ipada2H-Z8BtyVXDFj7FPYs98BG1rhjhIX9_KDfXJL7iwV38qODw&mmp_pid=an_15378290370&uls_trackid=56m0065i03l9&utm_campaign=id_1TBugz8PEan&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdkce155vp"
+        "finalUrl": "https://shopee.co.th/opaanlp/290731308/42731673912?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAwfetnv4KkyYJEDRAVrtAceKEvsQVyqM1N3snKPFmUv7Pt7osW3_reDE-sDowPK9Af3ATxxqwXFkmlECqft2zwrzntgTqFugY-4YX65qgQK0tWkQHH7jOLtuhE9SOKju-xpJBjftaTshcQatkf14u8vy7ZhFtidmIFA8Pj4xfVq9zJ1zY_tBAdkcVw4LX37Efu1iA&mmp_pid=an_15378290370&uls_trackid=56m8atch00k6&utm_campaign=id_1TBugz8PEan&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweut5m2n24"
       },
       "image": {
         "ok": true,
@@ -183,7 +183,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/237582277/3953008298?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAyJMa5zGaj6QesElJ8XRAYlf95a-vUIHwS7K5HbXiCYdmMRNRay8YgHn9t5jI2xc_wwZwUO0p9wVckzTRpYtqcjdH2Bp543-9Lsbh8e7Scsb1JFbpL8hgLm-g2LF5QuJG7I_VoWhYtQwJiu4Cnp-u8uNUgbZCtrXRGSF2uz5xbZpGXu1qnHA49gkMS0MgcHEZs&mmp_pid=an_15378290370&uls_trackid=56m0067u01jr&utm_campaign=id_2XmIBCf0rxB&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdkeg9mkji"
+        "finalUrl": "https://shopee.co.th/opaanlp/237582277/3953008298?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAxbXN0AgQFke40xXkDAHrNFx3a8rIx9UIrnmd_s8P89iFu9uHb7TsAZb40KD302d78p4TXd_4aXBEOA7Dbm2fpSGP5t0InBZdi6tFJst_mvZILO574UXEmmnJv1gWCZDtHeAPWc8arZLbpQ5T2QYP3TdclgPqh1JoOkF-DzFKheJq3Mux1tQ5AYZSJxTM5dAek&mmp_pid=an_15378290370&uls_trackid=56m8atei07lc&utm_campaign=id_2XmIBCf0rxB&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweuuwsf71r"
       },
       "image": {
         "ok": true,
@@ -196,7 +196,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/1271853676/29829993881?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAwu43xdhO0LZMnlnC-lpzgrdrS7Q8zyCD1r83ggxjdqaEV9PhoPP5ygA1m5xWEQ0E6gn8ARNs30BdNSuK0cuNfit2kf6odsQcjWsLUqtTToLrmICQLLcLPeRkqo5SVijkUmlioFWA5nDs3Q-r06mrQO-yOOdXNbwGeU1Q5LJXRuKBve6RVMUb69uqEmsj2sapeoUjCG&mmp_pid=an_15378290370&uls_trackid=56m006ab00jr&utm_campaign=id_7Lc6r9ZYvXd&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdkgipf4hm"
+        "finalUrl": "https://shopee.co.th/opaanlp/1271853676/29829993881?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAxgWTvrc2tvrJOvbSVFA0f_JHsIysqY3rhnvbLUqHw8u3i_MVn0ZUtZcdrtP4Wk5X4q_WA69l41Nn9VQrOeGSCzjDWC6C6mH5tyeSdiSsJSHrbsD2ZXG2-tdHTnbsvDDYjoqRhelvaJI-8RyZFbSVquYn-yqXQCUxEaXgvN_5GboDaYZle9Hr7KgTd9Z9C2JhphKcw2&mmp_pid=an_15378290370&uls_trackid=56m8atgf00jr&utm_campaign=id_7Lc6r9ZYvXd&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweuwjqgjcc"
       },
       "image": {
         "ok": true,
@@ -209,7 +209,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/1607201957/50656117318?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAwMoBl2m82mQBK9VZerTyUI9vglFCWD7iPwDTCbAzCbZTLij40IbknDXTbWr3I9soY7sqdc_xdHR1ompf21FnGh5IijX5oSAyC4D3jXd-nu_XgQuljsKUDcbzAr_4ZY_Ej32giwnTdMAm1L-f9Z8RK6wGYfsze0yQuSGwUNbunUCcf-2aWWO-njGxDU6k8VYovafVol&mmp_pid=an_15378290370&uls_trackid=56m006co03jr&utm_campaign=id_4rGLTNMAKef&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdkimhr1zo"
+        "finalUrl": "https://shopee.co.th/opaanlp/1607201957/50656117318?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAzBP08PH59K9msuopEuVGti-RgeCAzvdzzYsvds5P1rWtrxpthFdBqrXlbQwqLq-ozYjiNl4amFYBcVHeiYq3IvL5joij29lut7fN_GcoYBwIDdPtiELvZUDqL213huSjXnmWLCI1imC7ufF-rfyvctmxQsR2w4oHJ7z1CLEPry_y0NnXVNOoXVmDtQ0R879XSOhw-k&mmp_pid=an_15378290370&uls_trackid=56m8atic00k6&utm_campaign=id_4rGLTNMAKef&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweuy8oztyf"
       },
       "image": {
         "ok": true,
@@ -222,7 +222,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/302196191/5797846374?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAzWVfhEzePj1vYAIsIl2oVQ2eshsVw_oxgQKyE-AXeVNnerq27NVLhmM72x78Orfd6tOElh2s4DP74ZLeI65P-ECri0J_jkZH_DBNkd3yDtRTdf2j-NM_4phLv5Is0UyXYhg3uL3uwLzq07NQRnVrbG4L0TroO0XGD1EdUZ-5vsVQVXM1YdZSxnfqpCzSIivLc&mmp_pid=an_15378290370&uls_trackid=56m006f500j8&utm_campaign=id_1F9vTtM6N1l&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdkkpki9ck"
+        "finalUrl": "https://shopee.co.th/opaanlp/302196191/5797846374?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElAAAAAyChhuBk353n21FsvhaGVVjoAcETFQU08Wr4imaf5eZJ8gLiAlZBHxJVm1RaeTJVIh91Rt5r7ZbaDglEd-droarqnPaLjgsejEVwolYK114LV_vA_CvZaQlADhu7_wqmpNDaLF53JNemBFs-CtYmPBBgpTg0BNg8K_dZiJwNDjIm2TpXc6-zVw8JfEKsCM3Ilc&mmp_pid=an_15378290370&uls_trackid=56m8atke01k6&utm_campaign=id_1F9vTtM6N1l&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjweuzzyjcrm"
       },
       "image": {
         "ok": true,
@@ -235,7 +235,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/1654295371/41574757298?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAx9weoNgtZ35kakUjH4AT8Y3OsWXFk4Gp3FwwRMk5uFa2ypKjiZrwhJqrHUap3UGk0k2e2_FbK9sCF1qkjMqpy1k7jjIH1ZOfNRq41soj9oFiQcqwbxcRBrsZQ170Hx-D2g5-pfGhvjx8nDJWC1SNB_D3RQ6-hMKVApGWOuYjwdQIFj7XNBDS2V1m_zQkpYqO9pvssu&mmp_pid=an_15378290370&uls_trackid=56m006hi03j8&utm_campaign=id_7ckyFG8QRhJ&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdkntef8g7"
+        "finalUrl": "https://shopee.co.th/opaanlp/1654295371/41574757298?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmAAAAAyntS2gpkAXrCtqy2dzdmtWtaRUyjQKgyeiP3vdS1TUZyDPyZMBMxzAYE33YpRIi1HEhILSz9nX7vur-xyBO9FwzfLxqJIu6wLr7eW5fq7LFVL78bVmovMR_1U3k-4UY1pFRiyJuJhmnib_rhXwdT-roQhpKRZbuO2u6SfsOibTIe4b6YbIO-s5GBV8S3Kw-oKaa3aN&mmp_pid=an_15378290370&uls_trackid=56m8atmf01j8&utm_campaign=id_7ckyFG8QRhJ&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjwev2s93z47"
       },
       "image": {
         "ok": true,
@@ -248,7 +248,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/769105875/26470743072?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAzcDR9186Whu7SpEpP7hFO8n-7ns8hlfI89ZHdvi6KAdRaHbbxm0jnqikswOcsVKZv3PmCXNJ2ef0AwgfZMNd51UIs93znytU6WhVbH7vhFG19uSTxljDp32VQO0Njg08zIJuIPonFkESEXIJA9WD84tyxQLSsCJk4G8SEqY2cFfQ7K_ktr00h-kGAnnA4M_mzlqQ&mmp_pid=an_15378290370&uls_trackid=56m006jt03l9&utm_campaign=id_AyoENzfVfpZ&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdkpug6951"
+        "finalUrl": "https://shopee.co.th/opaanlp/769105875/26470743072?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAwNtzn_LtORWlSNliLACFwaaNSKUtwitm7ql8TQeql3CVd7-AkPT7aOIXjzNHkcCM7vzuRPJ6xtuWoRl3tJwKJRTuOIipbiJdTz5vSm0Bqqss0JdQ8yhr04pXHxOoED4ogAGf2hViOJQHQ_DSSrnePBU5g5YEbd8_fkYHoOY0D7TH0EYFlYbqo5m51TqQaJl6jDVw&mmp_pid=an_15378290370&uls_trackid=56m8atpn02j8&utm_campaign=id_AyoENzfVfpZ&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjwev5m66p9v"
       },
       "image": {
         "ok": true,
@@ -261,7 +261,7 @@
       "affiliate": {
         "ok": true,
         "status": 200,
-        "finalUrl": "https://shopee.co.th/opaanlp/769105875/47510117399?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAyCuZNO8GnXauRN9Er8W9H8iUFrk55Ic-deMEj1gXd4bxF7SiL32hc5ArY1jRY1tTkyM_ymFZrKjxXPjnRNuv3sxJzj3oeVxJ54sIgClPvl6S-UXhOR-37TNDBo06kP-RrLcOYkAscZx_MaZ8VfqwDlWUEVseo6PLMyHNUvqcknqdNyFjKaw40edF5a-7pz8r-oIQ&mmp_pid=an_15378290370&uls_trackid=56m006m900l9&utm_campaign=id_3IBWtMxe8iX&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjqdkrwicqhq"
+        "finalUrl": "https://shopee.co.th/opaanlp/769105875/47510117399?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElgAAAAyhiNz01-DYUANy5PHfjwJ2UruqIB66d5cFD0NowsIr80ExBb0DtoKTynQ_zVexrbScYuk9SYbKd73dlhkDArQG3brWx_5ZbPSmYpXXO1vZbnb4fXWvQwTTOc9pj2t8hO2-UHTzC_Tz7I_NsMMbIOn8O1qc7Z5v_OQMSLsb_rcBOvimAZs1QOmKKI3iq-fdcRA0Gw&mmp_pid=an_15378290370&uls_trackid=56m8atrm00jr&utm_campaign=id_3IBWtMxe8iX&utm_content=----&utm_medium=affiliates&utm_source=an_15378290370&utm_term=fjwev7bvc58t"
       },
       "image": {
         "ok": true,
