@@ -1,6 +1,6 @@
 {
   "mode": "editorial-preview",
-  "updatedAt": "2026-09-14T18:12:00+07:00",
+  "updatedAt": "2026-09-27T00:00:00+07:00",
   "categories": [
     "ท่องเที่ยว",
     "AI",
@@ -1346,6 +1346,66 @@
       "file": "content/50-ai-prompts-sales-customer-care.md",
       "image": "assets/images/articles/ai.webp",
       "imageAlt": "เจ้าของธุรกิจรายย่อยจัดหมวด Prompt สำหรับตอบลูกค้าและติดตามการขายบนแล็ปท็อป"
+    },
+    {
+      "slug": "gentle-discipline",
+      "title": "วินัยที่ดี ไม่จำเป็นต้องใจร้ายกับตัวเอง",
+      "excerpt": "วินัยที่ยั่งยืนเกิดจากระบบที่ทำให้การเริ่มต้นง่าย และการพลาดหนึ่งครั้งไม่กลายเป็นการยอมแพ้ทั้งหมด",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-09-14",
+      "image": "assets/images/articles/inspiration.webp",
+      "imageAlt": "ภาพประกอบบทความแรงบันดาลใจเรื่องวินัยที่ยั่งยืน",
+      "readingTime": "3 นาที",
+      "updatedAt": "2026-09-14",
+      "file": "content/gentle-discipline.md"
+    },
+    {
+      "slug": "life-system",
+      "title": "เป้าหมายบอกทิศทาง แต่ระบบพาเราไปถึง",
+      "excerpt": "เป้าหมายช่วยให้รู้ว่าเราต้องการอะไร แต่ระบบคือสิ่งที่เกิดขึ้นในวันธรรมดาและเรียนรู้จากชีวิตจริงได้",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-09-14",
+      "image": "assets/images/articles/inspiration.webp",
+      "imageAlt": "ภาพประกอบบทความเรื่องการออกแบบระบบชีวิต",
+      "readingTime": "3 นาที",
+      "updatedAt": "2026-09-14",
+      "file": "content/life-system.md"
+    },
+    {
+      "slug": "meaningful-success",
+      "title": "ความสำเร็จที่มีความหมาย ไม่จำเป็นต้องเหมือนใคร",
+      "excerpt": "ชีวิตที่ดีอาจไม่ได้เริ่มจากการวิ่งให้เร็วกว่าใคร แต่อาจเริ่มจากการถามว่าสิ่งใดสำคัญกับเราจริง ๆ",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-09-14",
+      "image": "assets/images/articles/inspiration.webp",
+      "imageAlt": "ภาพประกอบบทความเรื่องความสำเร็จที่มีความหมาย",
+      "readingTime": "3 นาที",
+      "updatedAt": "2026-09-14",
+      "file": "content/meaningful-success.md"
+    },
+    {
+      "slug": "momentum",
+      "title": "เริ่มอย่างไรในวันที่ไม่มีแรง",
+      "excerpt": "วันที่ไม่มีแรงไม่ใช่หลักฐานว่าเราไม่มีวินัย บางครั้งเป็นเพียงสัญญาณว่าร่างกายและใจต้องการโจทย์ที่เล็กลง",
+      "category": "แรงบันดาลใจ",
+      "date": "2026-09-14",
+      "image": "assets/images/articles/inspiration.webp",
+      "imageAlt": "ภาพประกอบบทความเรื่องการสร้างแรงส่งจากก้าวเล็ก ๆ",
+      "readingTime": "3 นาที",
+      "updatedAt": "2026-09-14",
+      "file": "content/momentum.md"
+    },
+    {
+      "slug": "english-daily-asking-for-help-directions-2026-09-03",
+      "title": "8 วลีภาษาอังกฤษสำหรับถามทางและขอความช่วยเหลืออย่างสุภาพ",
+      "excerpt": "ฝึกถามทางและขอความช่วยเหลือภาษาอังกฤษให้สุภาพ สั้น และชัดเจน พร้อมคำอ่าน คำแปล และตัวอย่างจริง",
+      "category": "English Daily",
+      "date": "2026-09-03",
+      "image": "assets/images/articles/english-daily-asking-for-help-directions-2026-09-03.webp",
+      "imageAlt": "ผู้เรียนชาวไทยฝึกถามทางเป็นภาษาอังกฤษบนแผนที่มือถือ",
+      "readingTime": "9 นาที",
+      "updatedAt": "2026-09-03",
+      "file": "content/english-daily-asking-for-help-directions-2026-09-03.md"
     }
   ]
 }
