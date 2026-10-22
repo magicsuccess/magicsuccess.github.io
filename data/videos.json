@@ -1,6 +1,6 @@
 {
   "mode": "live",
-  "updatedAt": "2026-10-22T04:55:58.869Z",
+  "updatedAt": "2026-10-22T11:59:19.084Z",
   "channelId": "UC4owSQOSWhEemcw0VkTCtVQ",
   "channelUrl": "https://www.youtube.com/@magicsuccessthailand",
   "playlists": {
@@ -316,6 +316,72 @@
       "featured": true,
       "thumbnail": "https://i.ytimg.com/vi/A7c7g855t5M/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=A7c7g855t5M"
+    },
+    {
+      "id": "3sdtyMLXuu4",
+      "category": "videos",
+      "title": "เริ่มต้นใหม่ด้วยก้าวเล็ก ๆ | วิธีหยุดความรู้สึกงานล้น แล้วเริ่มได้ใน 10 นาที",
+      "description": "เมื่อมีหลายเรื่องต้องแก้พร้อมกัน เราอาจรู้สึกว่างานทุกอย่างใหญ่เกินไป จนไม่รู้จะเริ่มตรงไหน วิดีโอนี้ชวนคุณลดสิ่งรบกวน เลือกหนึ่งงานเล็กที่ทำได้ภายใน 10 นาที และใช้ความสำเร็จเล็ก ๆ สร้างแรงส่งให้ชีวิตกลับมาเดินหน้าอีกครั",
+      "duration": "",
+      "publishedAt": "2026-08-03T11:00:07Z",
+      "featured": true,
+      "thumbnail": "https://i.ytimg.com/vi/3sdtyMLXuu4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3sdtyMLXuu4"
+    },
+    {
+      "id": "CWFzQrGiNbM",
+      "category": "videos",
+      "title": "ดวงตาที่สามกับสัจธรรม",
+      "description": "ดวงตาที่สามกับสัจธรรม",
+      "duration": "",
+      "publishedAt": "2026-07-31T17:00:35Z",
+      "featured": true,
+      "thumbnail": "https://i.ytimg.com/vi/CWFzQrGiNbM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CWFzQrGiNbM"
+    },
+    {
+      "id": "lTEVTGzid0c",
+      "category": "videos",
+      "title": "การตื่นรู้ทางจิตวิญญาณคืออะไร? เช็ค 6 ขั้นตอนและอาการที่คุณต้องรู้ (Spiritual Awakening)",
+      "description": "การตื่นรู้ทางจิตวิญญาณไม่ใช่สิ่งพิเศษ แต่เป็นธรรมชาติของการเติบโตของจิตวิญญาณที่จะพาคุณหลุดพ้นจากความทุกข์** กระบวนการนี้จะเปลี่ยนคุณจากตัวตนเก่าไปสู่ตัวตนใหม่ที่เป็นเวอร์ชันที่ดีที่สุด เมื่อเราเริ่มตื่นรู้ เราจะไม่สามาร",
+      "duration": "",
+      "publishedAt": "2026-07-29T17:00:09Z",
+      "featured": true,
+      "thumbnail": "https://i.ytimg.com/vi/lTEVTGzid0c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lTEVTGzid0c"
+    },
+    {
+      "id": "ksOz7R1usPo",
+      "category": "videos",
+      "title": "กำเนิดตาที่สาม",
+      "description": "ตาที่สาม",
+      "duration": "",
+      "publishedAt": "2026-07-28T17:00:37Z",
+      "featured": true,
+      "thumbnail": "https://i.ytimg.com/vi/ksOz7R1usPo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ksOz7R1usPo"
+    },
+    {
+      "id": "ZpXLvRE9SzY",
+      "category": "videos",
+      "title": "OpenClaw: สร้าง AI ผู้ช่วยส่วนตัว สั่งบันทึกบัญชีผ่าน Line ลง Google Sheet อัตโนมัติ!",
+      "description": "คลิปนี้พามาทำความรู้จัก OpenClaw เทคโนโลยี Personal AI Assistant ที่กำลังถูกพูดถึงกันอย่างมากในตอนนี้! เราจะมาดูกันว่ามันคืออะไร แตกต่างจากเครื่องมือ Automation อย่าง n8n อย่างไร และทำไมการทำงานแบบ \"AI Agent\" ถึงตอบโจทย์",
+      "duration": "",
+      "publishedAt": "2026-07-27T17:00:34Z",
+      "featured": true,
+      "thumbnail": "https://i.ytimg.com/vi/ZpXLvRE9SzY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZpXLvRE9SzY"
+    },
+    {
+      "id": "6RQpTtSs8ec",
+      "category": "videos",
+      "title": "ถอดรหัสลับ \"นะมะพะทะ\" กุญแจไขความลับจักรวาล ธาตุ 4 และการตื่นรู้ | นะโมพุทธายะ",
+      "description": "คุณเคยสงสัยไหมว่า \"นะมะพะทะ\" เป็นเพียงแค่มนต์คาถาเพื่อความขลัง หรือแท้จริงแล้วคือรหัสลับของจักรวาลกันแน่? คลิปนี้จะพาคุณเจาะลึกวิทยาศาสตร์ทางจิตขั้นสูง ถอดรหัสธาตุทั้ง 4 คือ ดิน (มะ) น้ำ (นะ) ลม (ทะ) และไฟ (พะ) ",
+      "duration": "",
+      "publishedAt": "2026-07-26T17:00:04Z",
+      "featured": true,
+      "thumbnail": "https://i.ytimg.com/vi/6RQpTtSs8ec/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6RQpTtSs8ec"
     }
   ]
 }
