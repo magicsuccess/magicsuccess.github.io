@@ -1,6 +1,6 @@
 {
   "mode": "live",
-  "updatedAt": "2026-11-07T06:05:18.720Z",
+  "updatedAt": "2026-11-07T13:10:58.960Z",
   "channelId": "UC4owSQOSWhEemcw0VkTCtVQ",
   "channelUrl": "https://www.youtube.com/@magicsuccessthailand",
   "playlists": {
@@ -9,6 +9,17 @@
     "videos": "PLZ7mOeT3II8E"
   },
   "items": [
+    {
+      "id": "wMx_44OaJ3A",
+      "category": "podcast",
+      "title": "พอดแคสต์ | Claude Code สำหรับสร้างเว็บไซต์: หลักการออกแบบและเก็บรายละเอียด",
+      "description": "แนวทางใช้ Claude Code พัฒนาเว็บไซต์ โดยเน้นโครงสร้างหน้าเว็บ ตัวอักษร สี การเคลื่อนไหว และการปรับรายละเอียดให้สอดคล้องกัน",
+      "duration": "",
+      "publishedAt": "2026-11-07T12:00:01Z",
+      "featured": true,
+      "thumbnail": "https://i.ytimg.com/vi/wMx_44OaJ3A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wMx_44OaJ3A"
+    },
     {
       "id": "-F1Qer1vCPY",
       "category": "podcast",
