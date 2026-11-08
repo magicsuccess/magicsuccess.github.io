@@ -1,6 +1,6 @@
 {
   "mode": "live",
-  "updatedAt": "2026-11-08T06:09:53.994Z",
+  "updatedAt": "2026-11-08T13:31:06.350Z",
   "channelId": "UC4owSQOSWhEemcw0VkTCtVQ",
   "channelUrl": "https://www.youtube.com/@magicsuccessthailand",
   "playlists": {
@@ -9,6 +9,17 @@
     "videos": "PLZ7mOeT3II8E"
   },
   "items": [
+    {
+      "id": "u75k1BkD6SI",
+      "category": "podcast",
+      "title": "พอดแคสต์ | 6 เทคนิคสร้างเว็บไซต์ด้วย AI: วางแผน Prompt และลดงานแก้ซ้ำ",
+      "description": "สรุปเทคนิคสร้างเว็บไซต์ด้วย AI ตั้งแต่ Founding Prompt การอ้างอิงเว็บไซต์ Visual Editor และการวางแผนก่อนแก้โค้ด",
+      "duration": "",
+      "publishedAt": "2026-11-08T12:00:36Z",
+      "featured": true,
+      "thumbnail": "https://i.ytimg.com/vi/u75k1BkD6SI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=u75k1BkD6SI"
+    },
     {
       "id": "wMx_44OaJ3A",
       "category": "podcast",
